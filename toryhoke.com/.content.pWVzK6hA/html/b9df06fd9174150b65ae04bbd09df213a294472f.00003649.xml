@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sketchbook digging &#8211; The Tory Party</title>
+	<atom:link href="/tag/sketchbook-digging/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 21 Jan 2018 07:16:13 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>	<item>
+		<title>Motte and Bailey prototypes</title>
+		<link>https://toryhoke.com/2013/06/26/motte-and-bailey-prototypes/</link>
+				<pubDate>Wed, 26 Jun 2013 14:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Orcs and Elves]]></category>
+		<category><![CDATA[character design]]></category>
+		<category><![CDATA[crow stew]]></category>
+		<category><![CDATA[motte and bailey]]></category>
+		<category><![CDATA[sketchbook digging]]></category>
+
+		<guid isPermaLink="false">http://www.thetoryparty.com/?p=6155</guid>
+				<description><![CDATA[<p>You remember &#8220;Crow Stew&#8221;? Well, I was digging through my sketchbook and found the Motte and Bailey prototypes. Ugtred the Orc used to be human. Sort of a handsome man thing. Totally different dynamic. Same suit size, though. There never was a fairy in the script so I&#8217;m not sure why I drew a fairy.&#8230; <a href="/2013/06/26/motte-and-bailey-prototypes/" class="more-link">Continue reading <span class="screen-reader-text">Motte and Bailey prototypes</span></a></p>
+<div class="tptn_counter" id="tptn_counter_6155">(138 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">6155</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 04:06:46 by W3 Total Cache
+-->

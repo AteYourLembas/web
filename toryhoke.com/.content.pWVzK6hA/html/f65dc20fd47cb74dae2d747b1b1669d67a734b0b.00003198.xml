@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Tory Party &#187; cyoa</title>
+	<atom:link href="/tag/cyoa/feed/" rel="self" type="application/rss+xml" />
+	<link>http://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>Sun, 13 Nov 2016 14:00:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.8</generator>
+	<item>
+		<title>Submit to sub-Q Magazine</title>
+		<link>http://toryhoke.com/2015/08/31/submit-to-sub-q-magazine/</link>
+		<comments>http://toryhoke.com/2015/08/31/submit-to-sub-q-magazine/#comments</comments>
+		<pubDate>Mon, 31 Aug 2015 13:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[call for submissions]]></category>
+		<category><![CDATA[cyoa]]></category>
+		<category><![CDATA[gamebooks]]></category>
+		<category><![CDATA[interactive fiction]]></category>
+		<category><![CDATA[submissions]]></category>
+
+		<guid isPermaLink="false">http://toryhoke.com/?p=8718</guid>
+		<description><![CDATA[<p>Hey! So I founded sub-Q, a magazine for interactive fiction. It pays pro rates. It needs submissions. It needs them REAL BAD. Have you dabbled in Twine? Played with Inform? Messed around with hypertext fiction or CYOA? Then sub-Q needs you. What is sub-Q? This 90-second video demonstrates how we work: Our Mission We seek [&#8230;]
+<div class="tptn_counter" id="tptn_counter_8718">(83 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+		<wfw:commentRss>http://toryhoke.com/2015/08/31/submit-to-sub-q-magazine/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ziva&#8217;s Conjury Mart</title>
+		<link>http://toryhoke.com/2014/10/07/zivas-conjury-mart/</link>
+		<comments>http://toryhoke.com/2014/10/07/zivas-conjury-mart/#comments</comments>
+		<pubDate>Tue, 07 Oct 2014 13:00:29 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[bubbe]]></category>
+		<category><![CDATA[cyoa]]></category>
+		<category><![CDATA[diplomacy]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[intimidation]]></category>
+		<category><![CDATA[tea]]></category>
+		<category><![CDATA[twine]]></category>
+
+		<guid isPermaLink="false">http://toryhoke.com/?p=8322</guid>
+		<description><![CDATA[<p>Twine is a platform for making interactive fiction&#8211;stories integrated with choice, picture, and sound. It&#8217;s pretty great. I&#8217;ll explain more later, but first I made you a present: PLAY Ziva&#8217;s Conjury Mart (Tested on OSX in Chrome and Safari, and on Windows in Chrome and IE. However audio doesn&#8217;t appear to load in iOS. Sorry. [&#8230;]
+<div class="tptn_counter" id="tptn_counter_8322">(140 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+		<wfw:commentRss>http://toryhoke.com/2014/10/07/zivas-conjury-mart/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk
+Content Delivery Network via toryhoke.subqmagazine.netdna-cdn.com
+
+ Served from: toryhoke.com @ 2017-02-10 19:43:24 by W3 Total Cache -->

@@ -1,0 +1,3609 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//toryhoke.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://toryhoke.com/2001/09/09/amusements-32/</loc>
+		<lastmod>2013-04-14T02:21:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images2/ratrace.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2001/09/06/cast-of-friends/</loc>
+		<lastmod>2013-04-14T02:32:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/archive/games/images/Ross.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/archive/games/images/Joey.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/archive/games/images/Chandler.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/archive/games/images/Monica.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/archive/games/images/Rachel.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/archive/games/images/Phoebe.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/12/17/amusements-35/</loc>
+		<lastmod>2013-04-15T21:05:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/mel_brooks.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/check_bruce.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/double_bruce.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/04/16/the-devil-in-rutledge-county-accepted-by-lore/</loc>
+		<lastmod>2013-04-16T15:03:04+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/04/lore_online.png</image:loc>
+			<image:caption><![CDATA[Lore online magazine logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/05/20/shaka-bars-accepted-by-luna-station-quarterly/</loc>
+		<lastmod>2013-05-20T13:00:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/05/luna_station_quarterly_icon.jpg</image:loc>
+			<image:caption><![CDATA[luna_station_quarterly_icon]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2005/07/18/amusements-12/</loc>
+		<lastmod>2013-05-20T18:03:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images9/craig_bierko.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images9/paul_giamatti.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images9/land_of_dead.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images9/ben_affleck_lanes.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/05/30/6-blonde-actresses-you-keep-confusing/</loc>
+		<lastmod>2013-05-30T14:00:51+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/05/amber_heard.png</image:loc>
+			<image:caption><![CDATA[Amber Heard]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/05/alice_eve.png</image:loc>
+			<image:caption><![CDATA[Alice Eve]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/05/teresa_palmer.png</image:loc>
+			<image:caption><![CDATA[Teresa Palmer]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/05/brooklyn_decker.png</image:loc>
+			<image:caption><![CDATA[Beachy as all heck]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/05/elisha_cuthbert.png</image:loc>
+			<image:caption><![CDATA[Elisha Cuthbert]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/05/kate_upton.png</image:loc>
+			<image:caption><![CDATA[Kate Upton]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/02/18/5-things-to-do-before-addressing-formal-invitations/</loc>
+		<lastmod>2013-06-04T22:51:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/wedding_addresses_vanderbilt.jpg</image:loc>
+			<image:title><![CDATA[Wedding Etiquette Amy Vanderbilt]]></image:title>
+			<image:caption><![CDATA[addressing formal invitations]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/vintagemeatwhybenormal.jpg</image:loc>
+			<image:title><![CDATA[A Gift to Please the Groom]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/cm_punk_straightedge.png</image:loc>
+			<image:title><![CDATA[CM Punk straightedge]]></image:title>
+			<image:caption><![CDATA[addressing formal invitations]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/martha_stewart.jpeg</image:loc>
+			<image:title><![CDATA[Martha Stewart]]></image:title>
+			<image:caption><![CDATA[addressing formal invitations]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/cursive.png</image:loc>
+			<image:title><![CDATA[cursive writing]]></image:title>
+			<image:caption><![CDATA[addressing formal invitations]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2012/12/20/cost-effective-weddinging-part-2/</loc>
+		<lastmod>2013-06-04T22:52:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/12/money_wedding_02.jpg</image:loc>
+			<image:title><![CDATA[money wedding package]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/12/money_wedding1.jpg</image:loc>
+			<image:title><![CDATA[money wedding bouquet]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/12/mmystery_rings.jpg</image:loc>
+			<image:title><![CDATA[wedding money mystery rings]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/12/money_clothes_origami.jpg</image:loc>
+			<image:title><![CDATA[money clothes clothing origami]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/12/ribbon_rings_money.jpeg</image:loc>
+			<image:title><![CDATA[ribbon rings money]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2012/09/06/cost-effective-weddinging/</loc>
+		<lastmod>2013-06-04T22:52:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/09/grooms-cake-heart.jpeg</image:loc>
+			<image:title><![CDATA[Groom's cake chocolate heart basket]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/09/grooms-cake-deer.jpeg</image:loc>
+			<image:title><![CDATA[grooms cake happy deer]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/09/grooms-cake-tools.jpeg</image:loc>
+			<image:title><![CDATA[grooms cake tools]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/09/grooms-cake-tuxedo-strawberries.jpeg</image:loc>
+			<image:title><![CDATA[grooms-cake-tuxedo-strawberries]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/09/grooms-cake-donuts.jpeg</image:loc>
+			<image:title><![CDATA[grooms-cake-donuts]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/06/19/diy-wedding-bathroom-emergency-kit/</loc>
+		<lastmod>2013-06-19T16:00:48+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/5315_d800_Tory_and_Jeremy_Tarp-2514597174-O_web.jpg</image:loc>
+			<image:caption><![CDATA[Wee paper dress optional]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/06/12/diy-origami-wedding-favors-with-candy/</loc>
+		<lastmod>2013-06-12T16:00:23+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/5405_d800_Tory_and_Jeremy_Tarp-2514619078-O_web.jpg</image:loc>
+			<image:title><![CDATA[origami wedding favors]]></image:title>
+			<image:caption><![CDATA[I just gave myself diabetes.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/5405_d800_Tory_and_Jeremy_Tarp-2514619078-O_web.jpg</image:loc>
+			<image:caption><![CDATA[I just gave myself diabetes.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_4995.jpg</image:loc>
+			<image:caption><![CDATA[IMG_4995]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_4988.jpg</image:loc>
+			<image:caption><![CDATA[Born to fold, yo.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_4989.jpg</image:loc>
+			<image:caption><![CDATA[IMG_4989]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_4993.jpg</image:loc>
+			<image:caption><![CDATA[IMG_4993]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/06/favorTag_v02_sm.png</image:loc>
+			<image:caption><![CDATA[Midi music not included]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/favor_candy_customization.png</image:loc>
+			<image:caption><![CDATA[Exclamation points are always in fashion]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/6147_d800_Tory_and_Jeremy_Tarp-2514642266-O_web.jpg</image:loc>
+			<image:caption><![CDATA[Sandalwood scented fans also not included.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/06/14/diy-wedding-shirt-and-dress-origami-escort-cards/</loc>
+		<lastmod>2013-06-14T16:00:41+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/7034_d3_Tory_and_Jeremy_Tarpys-2514605135-O_web.jpg</image:loc>
+			<image:title><![CDATA[origami wedding escort cards DIY shirt and dress]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/5329_d800_Tory_and_Jeremy_Tarp-2514604712-O_web_blur.jpg</image:loc>
+			<image:caption><![CDATA[How to make some super bananas escort cards]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/7034_d3_Tory_and_Jeremy_Tarpys-2514605135-O_web.jpg</image:loc>
+			<image:caption><![CDATA[Low angles rule]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_4996.jpg</image:loc>
+			<image:caption><![CDATA[Seriously can't stop folding.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_4998.jpg</image:loc>
+			<image:caption><![CDATA[IMG_4998]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_4999.jpg</image:loc>
+			<image:caption><![CDATA[IMG_4999]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5000.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5000]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_4987.jpg</image:loc>
+			<image:caption><![CDATA[With measuring tape for, you know, scale.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/5357_d800_Tory_and_Jeremy_Tarp-2514612313-O_web.jpg</image:loc>
+			<image:caption><![CDATA[It has a certain zazz.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/Karen_holding_escort_card.jpg</image:loc>
+			<image:caption><![CDATA[Cropped to protect the innocent.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/06/19/see-this-is-the-end/</loc>
+		<lastmod>2013-06-19T21:00:32+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/this_is_the-end.jpg</image:loc>
+			<image:caption><![CDATA[This is the End Movie]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/emma-watson-announces-an-undead-invasion-in-this-is-the-end-clip-watch-now-134969-a-1368774423-470-75.jpg</image:loc>
+			<image:caption><![CDATA[Female character behaving plausibly is surely a sign of end times]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/this-is-the-end2.jpg</image:loc>
+			<image:caption><![CDATA[I'm not going to spoil the FX or what this shot is about]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/Your-Highness-2.jpg</image:loc>
+			<image:caption><![CDATA[It is pretty much exactly the movie you'd want it to be]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/ap_this_is_the_end_kb_130612_wblog.jpg</image:loc>
+			<image:caption><![CDATA[I will personally apologize if you do not dig it]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2005/09/05/amusements-36/</loc>
+		<lastmod>2013-06-19T22:05:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images10/moving3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images10/moving2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images10/moving4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images10/moving1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/02/25/i-have-an-opinion/</loc>
+		<lastmod>2013-06-19T22:07:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2005/09/17/amusements-37/</loc>
+		<lastmod>2013-06-19T22:14:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2005/01/25/amusements-38/</loc>
+		<lastmod>2013-06-19T22:15:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images9/rove_thumb.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images9/janeane_sit.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/10/02/amusements-21/</loc>
+		<lastmod>2013-06-19T22:15:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/entrapment1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/entrapment2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/09/27/amusements-39/</loc>
+		<lastmod>2013-06-19T22:16:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/hurricanes_2004.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/hurricanes_2003.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/hurricanes_2002.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/evilempire.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2005/02/02/amusements-43/</loc>
+		<lastmod>2013-06-19T22:19:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images9/rove_neck.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images9/splenda.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images9/trix.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2007/06/11/knocked-up-a-second-opinion/</loc>
+		<lastmod>2013-06-19T22:24:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/07/14/amusements-48/</loc>
+		<lastmod>2013-06-19T22:24:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/ponyset.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/ponynew.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/ponycomparison.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2006/04/14/amusements-51/</loc>
+		<lastmod>2013-06-19T22:27:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/08/24/halle-berrys-catwoman/</loc>
+		<lastmod>2013-06-19T22:47:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/catwoman_ball.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/catwoman.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/catwoman_2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/04/24/mission-to-michigan/</loc>
+		<lastmod>2013-06-19T22:48:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/06/24/the-tory-partys-sneaky-vfx-facebook-page/</loc>
+		<lastmod>2013-06-24T14:00:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/06/66860_170766332954337_4347455_s.jpg</image:loc>
+			<image:caption><![CDATA[Abundant shenanigans]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/bean_eckhart.jpg</image:loc>
+			<image:caption><![CDATA[One just has a better survival rate]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/Watermelon.png</image:loc>
+			<image:caption><![CDATA[Watermelon is already sexy]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/dan_brown_angel.jpg</image:loc>
+			<image:caption><![CDATA[Naturally]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/09/02/emma/</loc>
+		<lastmod>2013-06-20T18:53:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/11/11/emma-iii-the-plumpening/</loc>
+		<lastmod>2013-06-20T18:53:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/sabrina-02-sm.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/11/emma_grown.jpg</image:loc>
+			<image:caption><![CDATA[emma_grown.jpg]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/11/emma_grown_2.jpg</image:loc>
+			<image:caption><![CDATA[emma_grown_2.jpg]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/09/09/emma-fattens-up/</loc>
+		<lastmod>2013-06-20T18:53:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/09/emma_plump.jpg</image:loc>
+			<image:caption><![CDATA[Emma plump]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/07/21/sabrina-the-face-melting-dobie/</loc>
+		<lastmod>2013-06-20T18:53:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/sabrina-01-sm.jpg</image:loc>
+			<image:caption><![CDATA[sabrina-01-sm.jpg]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/sabrina-02-sm.jpg</image:loc>
+			<image:caption><![CDATA[sabrina-02-sm.jpg]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/sabrina-03-sm.jpg</image:loc>
+			<image:caption><![CDATA[sabrina-03-sm.jpg]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/sabrina-04-sm.jpg</image:loc>
+			<image:caption><![CDATA[sabrina-04-sm.jpg]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/sabrina-05-sm.jpg</image:loc>
+			<image:caption><![CDATA[sabrina-05-sm.jpg]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/sabrina-06-sm.jpg</image:loc>
+			<image:caption><![CDATA[sabrina-06-sm.jpg]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/04/27/to-pete-yorn-on-this-my-wedding-day/</loc>
+		<lastmod>2013-06-20T18:53:46+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/04/loaded_rotated.jpg</image:loc>
+			<image:caption><![CDATA[Jeep Cherokee stuffed]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/04/jake-concerned_sm.jpg</image:loc>
+			<image:caption><![CDATA[Jake dog concerned Jeep Cherokee]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/04/arizona_sm.jpg</image:loc>
+			<image:caption><![CDATA[Arizona Highway 40]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/04/trunk_sm.jpg</image:loc>
+			<image:caption><![CDATA[Jeep Cherokee trunk packed]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/04/jake_contemporary.png</image:loc>
+			<image:caption><![CDATA[Jake dog back seat]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2012/10/15/jake-the-dog-loafing/</loc>
+		<lastmod>2013-06-20T18:53:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/10/jake_loafing.jpg</image:loc>
+			<image:title><![CDATA[jake_loafing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2011/08/26/what-lives-in-palm-trees/</loc>
+		<lastmod>2013-06-20T18:54:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2011/04/15/ticks/</loc>
+		<lastmod>2013-06-20T18:54:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2010/11/08/fleas/</loc>
+		<lastmod>2013-06-20T18:54:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2010/11/lifcycle.gif</image:loc>
+			<image:title><![CDATA[Flea Life Cycle. Also: gross.]]></image:title>
+			<image:caption><![CDATA[Flea Life Cycle. Also: gross.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2010/04/05/dog-age-calculator/</loc>
+		<lastmod>2013-06-20T18:54:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2010/04/dogs-age-chart.jpg</image:loc>
+			<image:title><![CDATA[Edward Tufte would approve (except maybe for the green border all the way around)]]></image:title>
+			<image:caption><![CDATA[Edward Tufte would approve (except maybe for the green border all the way around)]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2010/01/02/jake-vs-mabari-hound/</loc>
+		<lastmod>2013-06-20T18:54:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2010/01/07/deal-with-the-devil/</loc>
+		<lastmod>2013-06-20T18:56:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2010/01/buzz_killington.png</image:loc>
+			<image:title><![CDATA[Though it is true Jake is going to live forever. Portrait of Dorian Jake.]]></image:title>
+			<image:caption><![CDATA[Though it is true Jake is going to live forever. Portrait of Dorian Jake.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/11/19/gus-the-cat/</loc>
+		<lastmod>2013-06-20T18:56:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/11/gus.jpg</image:loc>
+			<image:title><![CDATA[GUSSSSSS!]]></image:title>
+			<image:caption><![CDATA[GUSSSSSS!]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/11/gus_loafing.jpg</image:loc>
+			<image:title><![CDATA[Awwwww. Aw aw! Awwwww.]]></image:title>
+			<image:caption><![CDATA[Awwwww. Aw aw! Awwwww.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/12/20/avatar/</loc>
+		<lastmod>2013-06-20T18:57:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/12/do_you.jpg</image:loc>
+			<image:title><![CDATA[You smell like blueberry syrup...]]></image:title>
+			<image:caption><![CDATA[You smell like blueberry syrup...]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/12/two-shot.jpg</image:loc>
+			<image:title><![CDATA[You know what they say about eight-foot-tall blue men...]]></image:title>
+			<image:caption><![CDATA[You know what they say about eight-foot-tall blue men...]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/12/purty.jpg</image:loc>
+			<image:title><![CDATA[What a wonderful phrase.]]></image:title>
+			<image:caption><![CDATA[What a wonderful phrase.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/12/single.jpg</image:loc>
+			<image:title><![CDATA[More of this please.]]></image:title>
+			<image:caption><![CDATA[More of this please.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/10/11/dog-costumes/</loc>
+		<lastmod>2013-06-20T18:57:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/10/leia_dog.jpg</image:loc>
+			<image:title><![CDATA[I left a Rebel Base in the hall closet.]]></image:title>
+			<image:caption><![CDATA[I left a Rebel Base in the hall closet.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/07/13/tokyomango-bowlingual-voice-a-digital-gadget-that-lets-dogs-communicate-with-owners/</loc>
+		<lastmod>2013-06-20T18:57:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/07/6a00d8341c5d3253ef011571fe9d7c970b-550wi.jpg</image:loc>
+			<image:title><![CDATA[6a00d8341c5d3253ef011571fe9d7c970b-550wi]]></image:title>
+			<image:caption><![CDATA[6a00d8341c5d3253ef011571fe9d7c970b-550wi]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/05/14/pet-airways/</loc>
+		<lastmod>2013-06-20T18:57:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/05/logo.png</image:loc>
+			<image:title><![CDATA[logo]]></image:title>
+			<image:caption><![CDATA[logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/03/09/cat-of-the-dead/</loc>
+		<lastmod>2013-06-20T18:57:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/03/uncanny_cat.jpg</image:loc>
+			<image:title><![CDATA[uncanny_cat]]></image:title>
+			<image:caption><![CDATA[uncanny_cat]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/03/compy.jpg</image:loc>
+			<image:title><![CDATA[compy]]></image:title>
+			<image:caption><![CDATA[compy]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/03/adam-baldwin.jpg</image:loc>
+			<image:title><![CDATA[.]]></image:title>
+			<image:caption><![CDATA[.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/03/alien-abduction-lamp.jpg</image:loc>
+			<image:title><![CDATA[alien-abduction-lamp]]></image:title>
+			<image:caption><![CDATA[alien-abduction-lamp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/03/31/fennec-grooming/</loc>
+		<lastmod>2013-06-20T18:58:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/dsc06775-sm.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/01/07/dog-whispering/</loc>
+		<lastmod>2013-06-20T18:58:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/01/22millxlarge1.jpg</image:loc>
+			<image:caption><![CDATA[22millxlarge1.jpg]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/01/06/jake-the-dog-in-my-absence/</loc>
+		<lastmod>2013-06-20T18:58:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/12/28/happy-birthday-to-jake/</loc>
+		<lastmod>2013-06-20T18:58:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/12/jake_dog.jpg</image:loc>
+			<image:caption><![CDATA[Jake the Dog]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/12/05/na-na-na-na-na-na-na-na-jake-dance/</loc>
+		<lastmod>2013-06-20T18:58:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/12/jakedance.jpg</image:loc>
+			<image:caption><![CDATA[jakedance.jpg]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/12/05/fail-dogs/</loc>
+		<lastmod>2013-06-20T18:59:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/12/faildog.jpg</image:loc>
+			<image:caption><![CDATA[faildog.jpg]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/09/11/jake-the-dog/</loc>
+		<lastmod>2013-06-20T18:59:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/jake_the_dog.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/07/22/jake-in-a-sweatshirt/</loc>
+		<lastmod>2013-06-20T18:59:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/dsc06780-sm.jpg</image:loc>
+			<image:caption><![CDATA[dsc06780-sm.jpg]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/dsc06775-sm.jpg</image:loc>
+			<image:caption><![CDATA[dsc06775-sm.jpg]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/dsc06778-sm.jpg</image:loc>
+			<image:caption><![CDATA[dsc06778-sm.jpg]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/05/07/dogs-and-limes/</loc>
+		<lastmod>2013-06-20T18:59:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/05/tory_good_as_done.jpg</image:loc>
+			<image:caption><![CDATA[Beach photoshop Tory]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/04/13/the-problem-with-brushing-jake/</loc>
+		<lastmod>2013-06-20T19:00:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/03/25/dogs-can-look-up/</loc>
+		<lastmod>2013-06-20T19:00:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/03/14/black-dog/</loc>
+		<lastmod>2013-06-20T19:00:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/02/jake.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/01/02/letting-them-lie/</loc>
+		<lastmod>2013-06-20T19:00:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/01/sleeping-dogs.jpg</image:loc>
+			<image:caption><![CDATA[sleeping dogs]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2007/07/24/reducing-jakes-fear-of-cameras/</loc>
+		<lastmod>2013-06-20T19:00:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2007/07/jake_dour_1.jpg</image:loc>
+			<image:caption><![CDATA[Jake Dour]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2007/07/jake_dour_2.jpg</image:loc>
+			<image:caption><![CDATA[Jake Dour 2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2006/08/20/amusements-66/</loc>
+		<lastmod>2013-06-20T19:01:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/jake_concerned.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/08/09/amusements-67/</loc>
+		<lastmod>2013-06-20T19:01:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/jake_the_dog.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/09/18/laid-off-scriptapalooza-semifinalist/</loc>
+		<lastmod>2013-06-20T19:02:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/06/22/rejected-scripty-sweet-sandia/</loc>
+		<lastmod>2013-06-20T19:03:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/02/06/short-shots/</loc>
+		<lastmod>2013-06-20T19:07:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/02/coraline.png</image:loc>
+			<image:title><![CDATA[coraline]]></image:title>
+			<image:caption><![CDATA[coraline]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/01/23/eyeballs-and-seeing-with-them/</loc>
+		<lastmod>2013-06-20T19:08:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2011/04/25/game-of-thrones-episode-1/</loc>
+		<lastmod>2013-06-20T19:13:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/04/ned.jpg</image:loc>
+			<image:title><![CDATA[It's a one dead animal day.]]></image:title>
+			<image:caption><![CDATA[It's a one dead animal day.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/04/tyrion1.jpg</image:loc>
+			<image:title><![CDATA[Too rad for his own good]]></image:title>
+			<image:caption><![CDATA[Too rad for his own good]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/04/cersei.jpg</image:loc>
+			<image:title><![CDATA[I jape you not.]]></image:title>
+			<image:caption><![CDATA[I jape you not.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/04/dany.jpg</image:loc>
+			<image:title><![CDATA[I will only do nudity if the role is SUPER BORING.]]></image:title>
+			<image:caption><![CDATA[I will only do nudity if the role is SUPER BORING.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/09/16/empty-rows-in-a-qtablewidget-with-lots-of-images/</loc>
+		<lastmod>2013-06-20T19:14:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2010/09/15/your-cocoa-build-of-qt-and-you/</loc>
+		<lastmod>2013-06-20T19:15:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2010/09/shortcuts.png</image:loc>
+			<image:title><![CDATA[MADNESSSSSSSS]]></image:title>
+			<image:caption><![CDATA[MADNESSSSSSSS]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2010/08/31/pil-on-snow-leopard-_jpeg_resync_to_restart-error/</loc>
+		<lastmod>2013-06-20T19:15:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2010/08/imaging-error.png</image:loc>
+			<image:title><![CDATA[Public Image Lame-ited]]></image:title>
+			<image:caption><![CDATA[Public Image Lame-ited]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2010/08/imaging-fixed.png</image:loc>
+			<image:title><![CDATA[WOOOOOO!]]></image:title>
+			<image:caption><![CDATA[WOOOOOO!]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2010/04/22/make-make-faster/</loc>
+		<lastmod>2013-06-20T19:15:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/09/18/generous-genius-programmer-shares-secrets-of-pyqt-multiple-autocomplete/</loc>
+		<lastmod>2013-06-20T19:15:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/05/14/fun-with-pyqt-setting-alignment-of-all-paragraphs-in-a-qtextedit/</loc>
+		<lastmod>2013-06-20T19:15:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/04/02/pyqt-seriously-what-are-you-doing/</loc>
+		<lastmod>2013-06-20T19:15:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/03/03/pyqt4-i-hate-you/</loc>
+		<lastmod>2013-06-20T19:15:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/08/04/amusements-49/</loc>
+		<lastmod>2013-06-20T19:16:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/foodchain.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/02/27/motte-and-bailey-walk-cycle-tests/</loc>
+		<lastmod>2013-06-20T23:30:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/Screen-shot-2013-02-26-at-11.40.41-AM.png</image:loc>
+			<image:title><![CDATA[Motte and Bailey walk cycle test]]></image:title>
+			<image:caption><![CDATA[Motte and Bailey walk cycle test]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/02/20/motte-and-bailey-crow-stew/</loc>
+		<lastmod>2013-06-20T23:30:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/motte_and_bailey.png</image:loc>
+			<image:title><![CDATA[Motte and Bailey - Crow Stew]]></image:title>
+			<image:caption><![CDATA[Motte and Bailey - Crow Stew]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2012/04/20/woodcut-practice-2/</loc>
+		<lastmod>2013-06-20T23:31:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/04/woodcut_practice_2_sm.png</image:loc>
+			<image:title><![CDATA[woodcut_practice_2_sm]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/04/woodcut_knight_3_sm.png</image:loc>
+			<image:title><![CDATA[woodcut_knight_3_sm]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/04/woodcut_practice_characters_sm.png</image:loc>
+			<image:title><![CDATA[woodcut_practice_characters_sm]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2012/04/18/woodcut-style-practice/</loc>
+		<lastmod>2013-06-20T23:32:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/04/woodcut_practice_roses_sm.png</image:loc>
+			<image:title><![CDATA[woodcut practice roses sm]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/04/woodcut_practice_harp_sm.png</image:loc>
+			<image:title><![CDATA[woodcut practice harp sm]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/04/woodcut_boat_practice_sm.png</image:loc>
+			<image:title><![CDATA[woodcut boat practice sm]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/06/26/motte-and-bailey-prototypes/</loc>
+		<lastmod>2013-06-26T14:00:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/06/motte_and_bailey_original_character_designs_011.png</image:loc>
+			<image:caption><![CDATA[Height differential remains the same]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/motte_and_bailey_original_character_designs_021.png</image:loc>
+			<image:caption><![CDATA[Trying out facial expressions]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/motte_and_bailey_original_character_designs_031.png</image:loc>
+			<image:caption><![CDATA[This design voiced by Gaston instead of Grover]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/06/21/valve-corporation-wedding-cake-toppers/</loc>
+		<lastmod>2013-06-21T16:40:58+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/5445_d800_Tory_and_Jeremy_Tarp-2514628902-O_web.jpg</image:loc>
+			<image:caption><![CDATA[Orange and gray forever]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/6153_d800_Tory_and_Jeremy_Tarp-2514643446-O_web.jpg</image:loc>
+			<image:caption><![CDATA[The cake is a truth]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/5408_d800_Tory_and_Jeremy_Tarp-2514620802-O_web.jpg</image:loc>
+			<image:caption><![CDATA[Groom Gordon's crowbar took damage. This is expected.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/6158_d800_Tory_and_Jeremy_Tarp-2514645093-O_web.jpg</image:loc>
+			<image:caption><![CDATA[Hobbit feet up in this piece]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/6157_d800_Tory_and_Jeremy_Tarp-2514644209-O_web.jpg</image:loc>
+			<image:caption><![CDATA[Unity!]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/5955_d800_Tory_and_Jeremy_Tarp-2514631142-O_web.jpg</image:loc>
+			<image:caption><![CDATA[Stability is key]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/06/28/fantasy-costume-designs/</loc>
+		<lastmod>2013-06-28T14:00:52+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/bent_canyon_textured_02_sm.png</image:loc>
+			<image:caption><![CDATA[A Good Orc Thousand Skull Gorge]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/orc_costumes_male_01.png</image:loc>
+			<image:caption><![CDATA[The guy in the middle has health problems]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/06/orc_costumes_female_01.png</image:loc>
+			<image:caption><![CDATA[Letting out some Edo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/orc_costumes_male_02.png</image:loc>
+			<image:caption><![CDATA[Petyr Littlefinger up in this piece]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/orc_costumes_female_02.png</image:loc>
+			<image:caption><![CDATA[One of these things is not like the others]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/06/25/kitten-seeks-home/</loc>
+		<lastmod>2013-06-25T17:58:21+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/keeten01.jpg</image:loc>
+			<image:caption><![CDATA[Tail discovering!]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/keeten02.jpg</image:loc>
+			<image:caption><![CDATA[Lap practice!]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2002/01/11/amusements-75/</loc>
+		<lastmod>2013-07-03T16:41:05+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2002/01/gin-n-juice.jpg</image:loc>
+			<image:caption><![CDATA[Captivatin' he who listens to the words that I speak]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2002/01/Snoop-Dogg-Doggystyle-Front.jpg</image:loc>
+			<image:caption><![CDATA[Laid back]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2002/01/Manchesters-Finest_Snoop-Dogg.jpg</image:loc>
+			<image:caption><![CDATA[Somehow, some way]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/07/10/rare-words-now-on-tumblr/</loc>
+		<lastmod>2013-07-10T16:00:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/07/rawr.png</image:loc>
+			<image:caption><![CDATA[The Tory Party rare words comics]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/09/19/amusements-22/</loc>
+		<lastmod>2013-07-09T20:54:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/lawordercast.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/louiserobey.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/robertdavi.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/07/11/natalia-tena-phenotype/</loc>
+		<lastmod>2013-07-11T15:00:15+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/07/hoffs_tena_02.png</image:loc>
+			<image:caption><![CDATA[80s hair comes full circle with Robert Smith permutation]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/07/hoffs_tena.jpg</image:loc>
+			<image:caption><![CDATA[Susanna Hoffs Natalia Tena]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/07/tena_bateman.jpg</image:loc>
+			<image:caption><![CDATA[Natalia Tena Justine Bateman]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/07/18/putting-a-neighborhood-cat-to-sleep-part/</loc>
+		<lastmod>2013-07-18T14:00:11+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/07/fluffy-grey-calico-female_5634341.jpg</image:loc>
+			<image:caption><![CDATA[dilute pastel calico female cat]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/07/blue-nitrile-gloves.jpg</image:loc>
+			<image:caption><![CDATA[blue nitrile gloves]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/07/28dayslater.jpeg</image:loc>
+			<image:caption><![CDATA[Naomie Harris and Megan Burns in 28 Days Later]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/07/19/putting-a-neighborhood-cat-to-sleep-part-2/</loc>
+		<lastmod>2013-07-19T14:00:26+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/07/Amazing-Photographs-by-Fubirai-of-Cat-Heaven-Island-in-Fukuoka-Japan-35.jpg</image:loc>
+			<image:caption><![CDATA[Image from Prafulla.net]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/07/funny-cat-in-heaven.jpg</image:loc>
+			<image:caption><![CDATA[Well, in or out?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2005/02/07/amusements-24/</loc>
+		<lastmod>2013-08-12T22:25:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images9/life_be_in_it.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/08/13/regarding-enders-game/</loc>
+		<lastmod>2013-08-13T18:16:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/08/enders_game_mocking.png</image:loc>
+			<image:caption><![CDATA[LOLOLOLOL]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/07/18/amusements-28/</loc>
+		<lastmod>2013-08-21T19:12:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/flutterpony.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/08/29/shaka-bars-in-luna-station-quarterly-14/</loc>
+		<lastmod>2013-08-29T14:00:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/08/luna_station_quarterly.png</image:loc>
+			<image:caption><![CDATA[Shaka Bars in Luna Station Quarterly #14]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/08/27/baby-mimic-in-crowded-magazine-issue-2/</loc>
+		<lastmod>2013-08-27T18:06:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/08/crowded2_144x144.png</image:loc>
+			<image:caption><![CDATA[Crowded #2 is out!]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/09/20/thor-2-understands-necks/</loc>
+		<lastmod>2013-09-20T14:00:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/09/marvel_mess_posters.png</image:loc>
+			<image:caption><![CDATA[Put your hand on my chest and look over there]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/09/thor-2-poster-dark-world-chris-hemsworth-1.jpg</image:loc>
+			<image:caption><![CDATA[Offensive neck creases lovingly removed]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/09/iron_man_three_ver11.jpg</image:loc>
+			<image:caption><![CDATA[More yoga needed]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/09/iron_man_three_ver11_sm.jpg</image:loc>
+			<image:caption><![CDATA[What.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/01/30/what-i-did-on-my-winter-vacation/</loc>
+		<lastmod>2013-10-07T20:56:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/01/shooting-range.jpg</image:loc>
+			<image:caption><![CDATA[shooting range]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/01/shooting-range-3.jpg</image:loc>
+			<image:caption><![CDATA[shooting range 2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/10/16/lysistrata-of-mars-accepted-by-strange-horizons/</loc>
+		<lastmod>2013-10-16T15:00:57+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/TwnPks_RkGdn_rite_full1.jpg</image:loc>
+			<image:caption><![CDATA[JPL Mars Rover Twin Peaks]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/10/15/404-government-not-found/</loc>
+		<lastmod>2013-10-16T02:30:19+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/Screen-shot-2013-10-15-at-7.03.27-PM.png</image:loc>
+			<image:caption><![CDATA[404 Government Not Found]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/10/17/wikifeet-is-a-thing/</loc>
+		<lastmod>2013-10-17T16:00:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/10/wikifeet.png</image:loc>
+			<image:caption><![CDATA[wikifeet is a thing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/10/21/demeter-gyro-disaster-is-out-in-isotropic-fiction-10/</loc>
+		<lastmod>2013-10-21T18:30:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/10/IF10.jpg</image:loc>
+			<image:caption><![CDATA[Isotropic Fiction 10 Michael Ellis Tory Hoke]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/08/10/amusements-33/</loc>
+		<lastmod>2013-11-07T01:26:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/therock.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/tennis_ladies.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/11/11/4-habits-i-wish-i-did-not-have/</loc>
+		<lastmod>2013-11-11T13:30:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/sara-bareilles.jpg</image:loc>
+			<image:caption><![CDATA[Sara Bareilles]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/edie_brickell.jpg</image:loc>
+			<image:caption><![CDATA[Edie Brickell]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/will-forte_4.jpg</image:loc>
+			<image:caption><![CDATA[Will Forte]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/habanero.jpg</image:loc>
+			<image:caption><![CDATA[Habanero pepper]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/pepperoncini-chili-pepper.jpg</image:loc>
+			<image:caption><![CDATA[Pepperoncini pepper]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/kimchi.jpg</image:loc>
+			<image:caption><![CDATA[Kimchi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/hard-candy-sugarfree-assorted-fruit-1-lb-800-L.jpg</image:loc>
+			<image:caption><![CDATA[Sugar-free candy]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/fiber_one.jpg</image:loc>
+			<image:caption><![CDATA[Fiber One bar]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/11/26/tory-party-disneyland-1-day-1-park-pass-giveaway/</loc>
+		<lastmod>2013-11-26T15:00:13+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/1_day_pass.jpg</image:loc>
+			<image:title><![CDATA[Disneyland 1-Park 1-Day pass]]></image:title>
+			<image:caption><![CDATA[Disneyland 1-Park 1-Day pass]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/1_day_pass.jpg</image:loc>
+			<image:caption><![CDATA[Back Camera]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/12/02/thanks-dan-kois-slate/</loc>
+		<lastmod>2013-12-02T21:00:54+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/American_BESM.jpg</image:loc>
+			<image:title><![CDATA[American BESM rapunzel anna ilsa]]></image:title>
+			<image:caption><![CDATA[American BESM rapunzel anna ilsa]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/American_BESM.jpg</image:loc>
+			<image:caption><![CDATA[American BESM rapunzel anna ilsa]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/12/03/body-narrows-alpha-accepted/</loc>
+		<lastmod>2013-12-03T15:00:40+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/12/body_in_the_narrows.jpg</image:loc>
+			<image:title><![CDATA[The Body in the Narrows Three-Lobed Burning Eye]]></image:title>
+			<image:caption><![CDATA[The Body in the Narrows Three-Lobed Burning Eye]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/12/body_in_the_narrows.jpg</image:loc>
+			<image:caption><![CDATA[The Body in the Narrows Three-Lobed Burning Eye]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2012/06/25/brave/</loc>
+		<lastmod>2013-12-04T04:47:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/06/Brave_poster_disney_pixar.jpeg</image:loc>
+			<image:title><![CDATA[Brave_poster_disney_pixar]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/06/brave_movie_hair.jpeg</image:loc>
+			<image:title><![CDATA[brave_movie_hair]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/06/brave_queen_elinor.jpeg</image:loc>
+			<image:title><![CDATA[brave_queen_elinor]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/06/brave_dark_insanity.jpeg</image:loc>
+			<image:title><![CDATA[brave_dark_insanity]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/06/Mordu.jpeg</image:loc>
+			<image:title><![CDATA[Mordu]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/06/Brave_parents.jpeg</image:loc>
+			<image:title><![CDATA[Brave_parents]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/06/brave_will_o_the_wisps.jpeg</image:loc>
+			<image:title><![CDATA[brave_will_o_the_wisps]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/12/08/random-thoughts-nerd-edition/</loc>
+		<lastmod>2013-12-07T18:05:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/12/havens.jpg</image:loc>
+			<image:caption><![CDATA[havens.jpg]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/07/29/random-thoughts-biscuit-edition/</loc>
+		<lastmod>2013-12-07T18:05:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/05/27/random-thoughts-spring-fever-edition/</loc>
+		<lastmod>2013-12-07T18:05:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/05/baby-carrots.jpg</image:loc>
+			<image:caption><![CDATA[baby carrots]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2005/02/21/amusements-69/</loc>
+		<lastmod>2013-12-07T18:06:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/05/09/toryhokecom-released-into-wild/</loc>
+		<lastmod>2013-12-07T19:37:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/05/silentina_movie.png</image:loc>
+			<image:caption><![CDATA[silentina movie]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/12/24/five-days-rehash-famous-authors-wrote-fanfic/</loc>
+		<lastmod>2013-12-24T14:00:13+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/12/dan_brown_angel.jpg</image:loc>
+			<image:title><![CDATA[Dan Brown angel fanfic]]></image:title>
+			<image:caption><![CDATA[Dan Brown angel fanfic]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/12/dan_brown_angel.jpg</image:loc>
+			<image:caption><![CDATA[Dan Brown angel fanfic]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/12/23/the-five-days-of-rehash-personality-quizzes/</loc>
+		<lastmod>2013-12-23T14:00:35+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/12/personalityBullet.png</image:loc>
+			<image:title><![CDATA[personality quizzes]]></image:title>
+			<image:caption><![CDATA[personality quizzes]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/quiz/images/personalityBullet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/quiz/images/zombieBullet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/quiz/images/humorBullet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/quiz/images/relationshipBullet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/quiz/images/personBullet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/quiz/images/jobBullet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/quiz/images/boyfriendBullet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/quiz/images/girlfriendBullet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/quiz/images/apartmentBullet.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/quiz/images/familyBullet.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/12/25/five-days-rehash-casting-call/</loc>
+		<lastmod>2013-12-25T14:00:41+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/12/andrews_montoya.jpg</image:loc>
+			<image:title><![CDATA[Naveen Andrews Inigo Montoya]]></image:title>
+			<image:caption><![CDATA[Naveen Andrews Inigo Montoya]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/12/andrews_montoya.jpg</image:loc>
+			<image:caption><![CDATA[Naveen Andrews Inigo Montoya]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/12/devane_holm.jpg</image:loc>
+			<image:caption><![CDATA[William Devane Ian Holm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/12/lokenwilliams.jpg</image:loc>
+			<image:caption><![CDATA[Kristanna Loken Vanessa Williams]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/12/degeneresfalco.jpg</image:loc>
+			<image:caption><![CDATA[Ellen DeGeneres Edie Falco]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/12/tuckerbrannigan.jpg</image:loc>
+			<image:caption><![CDATA[Chris Tucker Zapp Brannigan]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/12/26/five-days-of-rehash-depression-dog/</loc>
+		<lastmod>2013-12-26T14:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/12/ddog_deodorant.jpg</image:loc>
+			<image:title><![CDATA[Depression Dog deodorant]]></image:title>
+			<image:caption><![CDATA[Depression Dog deodorant]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/12/ddog_empties.jpg</image:loc>
+			<image:caption><![CDATA[Depression Dog for Girls]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/12/ddog_zip.jpg</image:loc>
+			<image:caption><![CDATA[ddog_zip]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/12/ddog_talk.jpg</image:loc>
+			<image:caption><![CDATA[ddog_talk]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/12/ddog_laugh.jpg</image:loc>
+			<image:caption><![CDATA[ddog_laugh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/12/ddog_deodorant.jpg</image:loc>
+			<image:caption><![CDATA[ddog_deodorant]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2007/06/06/knocked-up/</loc>
+		<lastmod>2013-12-08T00:21:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2007/06/ko_birthroom.jpg</image:loc>
+			<image:caption><![CDATA[Knocked Up - Birthroom]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2007/06/ko_oyfro.jpg</image:loc>
+			<image:caption><![CDATA[Knocked Up - Oyfro]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2007/06/ko_brittle.jpg</image:loc>
+			<image:caption><![CDATA[Knocked Up - Brittle]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2007/06/ko_reality_bites.jpg</image:loc>
+			<image:caption><![CDATA[KO - Reality Bites]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2007/06/ko_iud.jpg</image:loc>
+			<image:caption><![CDATA[Knocked Up - IUD]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2007/06/ko_squidgy_fees.jpg</image:loc>
+			<image:caption><![CDATA[KO - Squidgy Fees]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2007/06/ko_gene_hackman.jpg</image:loc>
+			<image:caption><![CDATA[Knocked Up - Gene Hackman]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2001/10/29/amusements-83/</loc>
+		<lastmod>2013-12-08T00:26:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images3/x10.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2002/01/24/what-harry-potter-cribbed-from-lord-of-the-rings/</loc>
+		<lastmod>2013-12-08T00:34:54+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2002/01/harryfrodo.jpg</image:loc>
+			<image:title><![CDATA[Harry Potter Elijah Wood]]></image:title>
+			<image:caption><![CDATA[Harry Potter Elijah Wood]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images3/harryfrodo.jpg</image:loc>
+			<image:caption><![CDATA[Look who can use GIMP!]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2002/10/04/fight-or-flight/</loc>
+		<lastmod>2013-12-08T00:42:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2003/06/22/amusements-96/</loc>
+		<lastmod>2013-12-08T00:47:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images4/radicalhatrolling.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/08/29/lolita-is-a-hell-of-a-book/</loc>
+		<lastmod>2013-12-08T01:10:57+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2004/08/Lolita-screen1.jpg</image:loc>
+			<image:title><![CDATA[Lolita 1962 film Stanley Kubrick]]></image:title>
+			<image:caption><![CDATA[Lolita 1962 film Stanley Kubrick]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2004/08/Lolita-screen1.jpg</image:loc>
+			<image:caption><![CDATA[Lolita 1962 film Stanley Kubrick]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/lolita.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/lolita_orbit.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/08/28/radness-of-spiderman-2/</loc>
+		<lastmod>2013-12-08T01:12:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/spider_fling.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/cdbarnes.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/spider_cider.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/08/05/amusements-112/</loc>
+		<lastmod>2013-12-08T01:14:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/crispycritters.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/bunlabel.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/08/08/super-fuzz/</loc>
+		<lastmod>2013-12-08T01:17:36+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2004/08/superfuzz_borgnine.jpg</image:loc>
+			<image:title><![CDATA[Super Fuzz Terence Hill]]></image:title>
+			<image:caption><![CDATA[Super Fuzz Terence Hill]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/superfuzz_wedding.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/superfuzz_splash.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/superfuzz_foreshadowing.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images7/superfuzz_borgnine.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2012/05/07/the-avengers/</loc>
+		<lastmod>2013-12-08T01:20:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/05/avengers.jpeg</image:loc>
+			<image:title><![CDATA[avengers]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/05/photo1.jpeg</image:loc>
+			<image:title><![CDATA[photo]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/05/05-02avengers_full_600.jpeg</image:loc>
+			<image:title><![CDATA[05-02avengers_full_600]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/05/Hulk-The-Avengers-movie-image-2.jpeg</image:loc>
+			<image:title><![CDATA[Hulk-The-Avengers-movie-image]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/05/Avengers_00010009.jpeg</image:loc>
+			<image:title><![CDATA[Avengers_00010009]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/05/The_Avengers-cast-comic-con.jpeg</image:loc>
+			<image:title><![CDATA[The_Avengers-cast-comic-con]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2010/12/07/black-swan/</loc>
+		<lastmod>2013-12-08T01:22:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2010/12/black-swan-mirror.png</image:loc>
+			<image:title><![CDATA[The next episode of Clone Wars]]></image:title>
+			<image:caption><![CDATA[The next episode of Clone Wars]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2010/12/black-swan-oscar.png</image:loc>
+			<image:title><![CDATA[If you were this rad, you'd preen, too.]]></image:title>
+			<image:caption><![CDATA[If you were this rad, you'd preen, too.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2010/12/black-swan-leer.png</image:loc>
+			<image:title><![CDATA[Ewwwww.]]></image:title>
+			<image:caption><![CDATA[Ewwwww.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2010/12/black-swan-abuse.png</image:loc>
+			<image:title><![CDATA[Gamine enough for ya?]]></image:title>
+			<image:caption><![CDATA[Gamine enough for ya?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2006/06/19/amusements-3/</loc>
+		<lastmod>2013-12-08T01:27:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/xmen_header.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/xmen_romance_2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/xmen_storm.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/xmen_iceman_pyro.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/xmen_jean_grey.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/xmen_angel.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/xmen_posse.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/xmen_beast.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/xmen_wolverine.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/xmen_wolverine_2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/xmen_color.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/xmen_jean_grey_2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2006/03/10/amusements-4/</loc>
+		<lastmod>2013-12-08T01:29:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/brokeback_0.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/brokeback_6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/brokeback_1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/brokeback_7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/brokeback_2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/brokeback_5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/brokeback_4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/brokeback_naked_laundry.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images11/brokeback_3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/09/11/beefs-with-return-of-the-king/</loc>
+		<lastmod>2013-12-08T01:34:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/saruman.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/eowyn.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/samwise.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/12/27/five-days-rehash-lord-of-the-rings-revisited/</loc>
+		<lastmod>2013-12-27T14:00:21+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/12/the-desolation-of-smaug.jpg</image:loc>
+			<image:caption><![CDATA[The Hobbit Desolation of Smaug]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/07/13/are-you-kidding-me-with-these-hosts-of-angband/</loc>
+		<lastmod>2013-12-08T01:45:39+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2004/07/The_Walls_of_Angband.jpg</image:loc>
+			<image:title><![CDATA[The Walls of Angband Felix Sotomayor]]></image:title>
+			<image:caption><![CDATA[The Walls of Angband Felix Sotomayor]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2004/07/The_Walls_of_Angband.jpg</image:loc>
+			<image:caption><![CDATA[The Walls of Angband Felix Sotomayor]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/12/09/2013-holiday-giveaway-coming/</loc>
+		<lastmod>2013-12-09T15:00:49+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/12/71ZfEcQEu5L._SL1500_.jpg</image:loc>
+			<image:title><![CDATA[puzzle pod cryptex giveaway 4Thought Products]]></image:title>
+			<image:caption><![CDATA[puzzle pod cryptex giveaway 4Thought Products]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/12/71ZfEcQEu5L._SL1500_.jpg</image:loc>
+			<image:caption><![CDATA[puzzle pod cryptex giveaway 4Thought Products]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/12/13/2013-crazy-making-holiday-giveaway/</loc>
+		<lastmod>2013-12-13T15:00:55+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/12/71ZfEcQEu5L._SL1500_.jpg</image:loc>
+			<image:title><![CDATA[puzzle pod cryptex giveaway 4Thought Products]]></image:title>
+			<image:caption><![CDATA[puzzle pod cryptex giveaway 4Thought Products]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/12/71ZfEcQEu5L._SL1500_.jpg</image:loc>
+			<image:caption><![CDATA[puzzle pod cryptex giveaway]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/06/17/lois-lanes-secret-in-man-of-steel/</loc>
+		<lastmod>2014-01-18T01:30:40+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/MAN-OF-STEEL-01_510x317.jpg</image:loc>
+			<image:caption><![CDATA[Man of Steel march of shame]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/lois.jpg</image:loc>
+			<image:caption><![CDATA[I mean sometimes it takes all day]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/mos-blog-jpg_180611.jpg</image:loc>
+			<image:caption><![CDATA[Put your space lips on mine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/man_of_steel-HD.jpg</image:loc>
+			<image:caption><![CDATA[I would punch them in a house/I would punch them with a mouse]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/Man-of-Steel-Image-014.jpg</image:loc>
+			<image:caption><![CDATA[Superman always needed more Avatar, IMHO]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/640px-Man-of-Steel-Trailer-Images-Diane-Lane-as-Martha-Kent.jpg</image:loc>
+			<image:caption><![CDATA[They should have invested in a hug machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/Man-of-Steel-Pa-Kent.jpg</image:loc>
+			<image:caption><![CDATA[Pa Kent school of emotional castration.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/header-clark-kent-wont-be-fully-realized-in-man-of-steel.jpg</image:loc>
+			<image:caption><![CDATA[Seriously I need to go to the hospital]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/man-of-steel-amy-adams2.jpg</image:loc>
+			<image:caption><![CDATA[This is my journalist face]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/Man-of-Steel-General-Zod-and-Faora.jpg</image:loc>
+			<image:caption><![CDATA[We got it bad and that is good]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/man-of-steel-general-zod-black-zero.jpg</image:loc>
+			<image:caption><![CDATA[There's no way this didn't kill thousands of people]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/general-zod-man-of-steel-1.png</image:loc>
+			<image:caption><![CDATA[When you see the frozen space peens, sing "Flight of the Valkyries"]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/man-of-steel-young-clark-kent-as-a-superhero.jpg</image:loc>
+			<image:caption><![CDATA[Terence Malick up in this piece]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/05/20/star-trek-into-darkness/</loc>
+		<lastmod>2014-01-18T01:31:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/05/star-trek-into-darkness-poster.jpg</image:loc>
+			<image:caption><![CDATA[Benedict Cumberbatch's sweet duster into darkness]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/05/star-trek-into-darkness-simon-pegg.jpg</image:loc>
+			<image:caption><![CDATA[simon pegg as scotty taking a cell phone call into darkness]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/05/star-trek-into-darkness-chris-pine.jpg</image:loc>
+			<image:caption><![CDATA[Star Trek Into Darkness Chris Pine Chris Isaak face]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/05/star-trek-into-darkness-cell.jpg</image:loc>
+			<image:caption><![CDATA[Star Trek Into Darkness Benedict Cumberbatch doesn't move his face above the nose]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/05/star-trek-into-darkness-lavender.jpg</image:loc>
+			<image:caption><![CDATA[Star Trek Into Darkness Chris Pine Alice Eve grave concern]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/01/07/jack-reacher/</loc>
+		<lastmod>2014-01-18T01:38:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/01/jack_reacher_poster.jpeg</image:loc>
+			<image:title><![CDATA[jack_reacher_poster]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/01/lethal_weapon_poster.jpeg</image:loc>
+			<image:title><![CDATA[lethal_weapon_poster]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/01/alexia_fast.jpeg</image:loc>
+			<image:title><![CDATA[alexia_fast]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/01/Jack_Reacher_Bus.jpeg</image:loc>
+			<image:title><![CDATA[Jack_Reacher_Bus]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/01/elite_sniper_dating.jpeg</image:loc>
+			<image:title><![CDATA[elite_sniper_dating]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/01/WernerHerzog_JackReacher2.JPG.CROP_.rectangle3-large.jpeg</image:loc>
+			<image:title><![CDATA[WernerHerzog_JackReacher2.JPG.CROP.rectangle3-large]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/01/Jack_Reacher_Rosamund_Pike.jpeg</image:loc>
+			<image:title><![CDATA[Jack_Reacher_Rosamund_Pike]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/01/racewalking.jpeg</image:loc>
+			<image:title><![CDATA[racewalking]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/01/john_cena9.jpeg</image:loc>
+			<image:title><![CDATA[john_cena9]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2012/07/23/twenty-three-silly-things-about-the-dark-knight-rises/</loc>
+		<lastmod>2014-01-18T01:38:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/07/dark_knight_rises_bruce_alfred.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/07/michael_caine_anne_hathaway_dark_knight_rises.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/07/The-Dark-Knight-Rises_Christian-Bale-with-suit_Image-credit-Warner-Bros.-Pictures-001.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/07/bane_harvey_dent.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/07/the-dark-knight-rises-joseph-gordon-levitt-image.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/07/Nestor-Carbonell-Dark-Knight-Rises.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/07/monsters_inc_last_scene.jpeg</image:loc>
+			<image:title><![CDATA[Monsters Inc last scene final frame]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2004/08/23/amusements-106/</loc>
+		<lastmod>2014-01-18T01:46:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/taka.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/thevillage.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images8/orko.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/01/14/2-reasons-nominate-2014-john-w-campbell-award/</loc>
+		<lastmod>2014-02-11T20:03:49+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/01/john_w_campbell.jpg</image:loc>
+			<image:title><![CDATA[John W Campbell]]></image:title>
+			<image:caption><![CDATA[John W Campbell]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/01/john_w_campbell.jpg</image:loc>
+			<image:caption><![CDATA[John W Campbell]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/01/lysistrata_hoke_small.jpg</image:loc>
+			<image:caption><![CDATA[Lysistrata of Mars]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/01/body_in_the_narrows.jpg</image:loc>
+			<image:caption><![CDATA[The Body in the Narrows]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/01/DiRC_Hoke.png</image:loc>
+			<image:caption><![CDATA[Devil in Rutledge County]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/01/Demeter_Gyro_Disaster_Hoke_sm-300x300.jpg</image:loc>
+			<image:caption><![CDATA[Demeter Gyro Disaster]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/01/shaka_bars_hoke_sm.jpg</image:loc>
+			<image:caption><![CDATA[Shaka Bars]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2012/01/31/valentines-ad/</loc>
+		<lastmod>2014-02-12T19:13:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/01/valentines_list.png</image:loc>
+			<image:title><![CDATA[valentines_list]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/02/12/singles-awareness-day-cards-2013/</loc>
+		<lastmod>2014-02-12T21:31:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/val02_torture.png</image:loc>
+			<image:title><![CDATA[Let's explore the line between affection and torture. - ecard]]></image:title>
+			<image:caption><![CDATA[Let's explore the line between affection and torture.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/val05_couple.png</image:loc>
+			<image:title><![CDATA[May you get to leave the house this year. - ecard]]></image:title>
+			<image:caption><![CDATA[May you get to leave the house this year.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/val03_charles_shaw.png</image:loc>
+			<image:title><![CDATA[I made plans with Charles Shaw. - ecard]]></image:title>
+			<image:caption><![CDATA[I made plans with Charles Shaw.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/val04_rule_34.png</image:loc>
+			<image:title><![CDATA[Let's make waffles and test Rule 34 until our childhoods are ruined. - ecard]]></image:title>
+			<image:caption><![CDATA[Let's make waffles and test Rule 34 until our childhoods are ruined.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/val01b_tolerate.png</image:loc>
+			<image:title><![CDATA[You have the relationship I tolerate the best. - ecard]]></image:title>
+			<image:caption><![CDATA[You have the relationship I tolerate the best. - ecard]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/val01a_tolerate.png</image:loc>
+			<image:title><![CDATA[You have the relationship I tolerate the best. - ecard]]></image:title>
+			<image:caption><![CDATA[You have the relationship I tolerate the best. -ecard]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/02/val01c_tolerate.png</image:loc>
+			<image:title><![CDATA[You have the relationship I tolerate the best. - ecard]]></image:title>
+			<image:caption><![CDATA[You have the relationship I tolerate the best.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/03/20/cockroach-existential-crisis/</loc>
+		<lastmod>2014-03-20T15:00:28+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/03/cockroach_crisis_sm.jpg</image:loc>
+			<image:title><![CDATA[cockroach existential crisis]]></image:title>
+			<image:caption><![CDATA[cockroach existential crisis]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/03/cockroach_crisis_sm.jpg</image:loc>
+			<image:caption><![CDATA[cockroach_crisis_sm]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/03/21/ghoul-pearl-earring/</loc>
+		<lastmod>2014-03-21T15:00:45+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/03/ghoul_with_a_pearl_earring_bw.jpg</image:loc>
+			<image:title><![CDATA[ghoul with a pearl earring]]></image:title>
+			<image:caption><![CDATA[ghoul with a pearl earring]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/03/ghoul_with_a_pearl_earring_bw.jpg</image:loc>
+			<image:caption><![CDATA[ghoul with a pearl earring]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/03/24/cowslip/</loc>
+		<lastmod>2014-03-24T15:00:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/03/cowslip_sm.jpg</image:loc>
+			<image:caption><![CDATA[cowslip]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/03/26/snowy-road/</loc>
+		<lastmod>2014-03-26T15:00:55+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/03/snowy_road_super.jpg</image:loc>
+			<image:title><![CDATA[snowy road thief]]></image:title>
+			<image:caption><![CDATA[snowy road thief]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/03/snowy_road_super.jpg</image:loc>
+			<image:caption><![CDATA[snowy road thief]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/03/27/joanna/</loc>
+		<lastmod>2014-03-27T15:00:53+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/03/joanna_super.jpg</image:loc>
+			<image:title><![CDATA[joanna in the belly of the whale]]></image:title>
+			<image:caption><![CDATA[joanna in the belly of the whale]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/03/joanna_super.jpg</image:loc>
+			<image:caption><![CDATA[joanna in the belly of the whale]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/03/joanna_step_01.jpg</image:loc>
+			<image:caption><![CDATA[joanna_step_01]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/03/joanna_step_02.jpg</image:loc>
+			<image:caption><![CDATA[joanna_step_02]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/03/joanna_step_03.jpg</image:loc>
+			<image:caption><![CDATA[joanna_step_03]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/03/joanna_step_04.jpg</image:loc>
+			<image:caption><![CDATA[joanna process]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/03/28/tree-studies/</loc>
+		<lastmod>2014-03-28T15:00:47+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/03/tree_studies_sm.jpg</image:loc>
+			<image:title><![CDATA[tree studies]]></image:title>
+			<image:caption><![CDATA[tree studies]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/03/tree_studies_sm.jpg</image:loc>
+			<image:caption><![CDATA[tree studies]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/03/31/dimah/</loc>
+		<lastmod>2014-03-31T15:00:30+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/03/dimah_super.jpg</image:loc>
+			<image:title><![CDATA[dimah vs goliath]]></image:title>
+			<image:caption><![CDATA[dimah vs goliath]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/03/dimah_super.jpg</image:loc>
+			<image:caption><![CDATA[dimah vs goliath]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/04/01/olofunke/</loc>
+		<lastmod>2014-04-01T15:00:47+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/03/olofunke_super.jpg</image:loc>
+			<image:title><![CDATA[olofunke]]></image:title>
+			<image:caption><![CDATA[olofunke]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/03/olofunke_super.jpg</image:loc>
+			<image:caption><![CDATA[olofunke]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/04/olofunke_sketch.jpg</image:loc>
+			<image:caption><![CDATA[olofunke sketch]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/06/10/papercraft-wedding-programs-for-fun-and-profit/</loc>
+		<lastmod>2014-06-09T18:28:11+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/5352_d800_Tory_and_Jeremy_Tarp-2514610579-O_web_blur.jpg</image:loc>
+			<image:title><![CDATA[Papercraft wedding programs]]></image:title>
+			<image:caption><![CDATA[So snugglesome!]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/5320_d800_Tory_and_Jeremy_Tarp-2513437940-O_web_blur.jpg</image:loc>
+			<image:caption><![CDATA[Rotate!]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5001.jpg</image:loc>
+			<image:caption><![CDATA[Use caution with box cutters or XActo knives or whatever you got]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5152.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5152]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5153.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5153]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5154.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5154]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5156.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5156]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5157.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5157]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5158.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5158]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5159.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5159]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5160.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5160]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5161.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5161]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5162.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5162]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5164.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5164]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/IMG_5166.jpg</image:loc>
+			<image:caption><![CDATA[IMG_5166]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/06/5352_d800_Tory_and_Jeremy_Tarp-2514610579-O_web_blur.jpg</image:loc>
+			<image:caption><![CDATA[So snugglesome!]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/06/11/muscle-memory-available-seizure-online-bleef-makes-june-cover-apex/</loc>
+		<lastmod>2014-06-11T20:00:02+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/06/ApexMag06.jpg</image:loc>
+			<image:title><![CDATA[bleef]]></image:title>
+			<image:caption><![CDATA[Apex Magazine Issue 61 cover Bleef]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/06/ApexMag06.jpg</image:loc>
+			<image:caption><![CDATA[Apex Magazine Issue 61 cover Bleef]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/07/29/goldfish-grimms-issue-20-includes-call-gold-cat/</loc>
+		<lastmod>2014-07-29T15:00:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/08/08/5-best-current-animated-series-pass-mako-mori-test/</loc>
+		<lastmod>2014-08-20T04:49:11+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/08/Rick_And_Morty_Something_Ricked_This_Way_Comes.jpg</image:loc>
+			<image:title><![CDATA[Rick and Morty Something Ricked This Way Comes]]></image:title>
+			<image:caption><![CDATA[Rick and Morty Something Ricked This Way Comes]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/08/gravity_falls.png</image:loc>
+			<image:caption><![CDATA[Gravity Falls]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/08/archer.jpg</image:loc>
+			<image:caption><![CDATA[archer]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/08/Adventure_Time_Sky_Witch.png</image:loc>
+			<image:caption><![CDATA[Adventure Time Sky Witch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/08/bobs_burgers_spaghetti_western_and_meatballs.jpg</image:loc>
+			<image:caption><![CDATA[Bob's Burgers Spaghetti Western and Meatballs]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/08/Rick_And_Morty_Something_Ricked_This_Way_Comes.jpg</image:loc>
+			<image:caption><![CDATA[Rick and Morty Something Ricked This Way Comes]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/07/08/5-beefs-with-how-to-train-your-dragon-2/</loc>
+		<lastmod>2014-08-20T04:50:52+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/07/HiccupToothlessAltHowToTrainYourDragon2_article_story_large.jpg</image:loc>
+			<image:title><![CDATA[Hiccup Toothless How To Train Your Dragon 2]]></image:title>
+			<image:caption><![CDATA[Hiccup Toothless How To Train Your Dragon 2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/07/HiccupToothlessAltHowToTrainYourDragon2_article_story_large.jpg</image:loc>
+			<image:caption><![CDATA[Hiccup Toothless How To Train Your Dragon 2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/07/how-to-train-your-dragon-2-1.jpg</image:loc>
+			<image:caption><![CDATA[How to Train Your Dragon 2 Valda]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/07/how-to-train-your-dragon-2-lrg3.jpg</image:loc>
+			<image:caption><![CDATA[How to Train Your Dragon 2 Eret]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/07/Drago_gallery1.jpg</image:loc>
+			<image:caption><![CDATA[Drago Bloodfist]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-07-at-2.21.37-PM.png</image:loc>
+			<image:caption><![CDATA[How To Train Your Dragon 2 Above the Line]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/07/Drago.jpg</image:loc>
+			<image:caption><![CDATA[Drago Bloodfist alpha]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/02/27/dixie-cousins-vs-inara/</loc>
+		<lastmod>2014-08-20T05:20:10+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2009/02/dixie_inara.jpg</image:loc>
+			<image:title><![CDATA[Dixie Cousins Inara Morena Baccarin]]></image:title>
+			<image:caption><![CDATA[Dixie Cousins Inara Morena Baccarin]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/02/dixie_inara.jpg</image:loc>
+			<image:title><![CDATA[dixie_inara]]></image:title>
+			<image:caption><![CDATA[dixie_inara]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/02/dixie_inara_2.jpg</image:loc>
+			<image:title><![CDATA[dixie_inara_2]]></image:title>
+			<image:caption><![CDATA[dixie_inara_2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/06/25/sixteen-foot-truck/</loc>
+		<lastmod>2014-08-20T05:22:35+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2009/06/budget_truck304205957_std.jpg</image:loc>
+			<image:title><![CDATA[Budget Truck 16 foot]]></image:title>
+			<image:caption><![CDATA[Budget Truck 16 foot]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/06/16_foot_truck.gif</image:loc>
+			<image:title><![CDATA[16_foot_truck]]></image:title>
+			<image:caption><![CDATA[16_foot_truck]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/06/10_foot_truck.gif</image:loc>
+			<image:title><![CDATA[10_foot_truck]]></image:title>
+			<image:caption><![CDATA[10_foot_truck]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/06/budget_truck304205957_std.jpg</image:loc>
+			<image:title><![CDATA[budget_truck304205957_std]]></image:title>
+			<image:caption><![CDATA[budget_truck304205957_std]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/06/grand_view.png</image:loc>
+			<image:title><![CDATA[grand_view]]></image:title>
+			<image:caption><![CDATA[grand_view]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/06/superman-train.jpg</image:loc>
+			<image:title><![CDATA[superman-train]]></image:title>
+			<image:caption><![CDATA[superman-train]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/06/morrissey460.jpg</image:loc>
+			<image:title><![CDATA[morrissey460]]></image:title>
+			<image:caption><![CDATA[morrissey460]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/06/28687.jpg</image:loc>
+			<image:title><![CDATA[28687]]></image:title>
+			<image:caption><![CDATA[28687]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/11/18/in-defense-of-frozen/</loc>
+		<lastmod>2014-08-20T05:24:57+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/American_BESM1.jpg</image:loc>
+			<image:title><![CDATA[American BESM Frozen Tangled]]></image:title>
+			<image:caption><![CDATA[American BESM Frozen Tangled]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/DISNEY-FROZEN-618-618x400.jpg</image:loc>
+			<image:caption><![CDATA[Frozen]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/dreamworks_middle_Third.jpg</image:loc>
+			<image:caption><![CDATA[DreamWorks face middle third]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/dreamworks_middle_Third_02.jpg</image:loc>
+			<image:caption><![CDATA[DreamWorks middle third face]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/Mad-madam-mimi-2.jpg</image:loc>
+			<image:caption><![CDATA[Madam Mim]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/turbo.jpg</image:loc>
+			<image:caption><![CDATA[Turbo DreamWorks diverse cast]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/animated_female_lookalikes_01.jpg</image:loc>
+			<image:caption><![CDATA[animated Disney female lookalikes]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/animated_female_lookalikes_02.jpg</image:loc>
+			<image:caption><![CDATA[Animated female lookalikes]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/animated_female_lookalikes_03.jpg</image:loc>
+			<image:caption><![CDATA[Animated Female Lookalikes]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/disney_face_proprotions.png</image:loc>
+			<image:caption><![CDATA[Disney face proportions]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/animated_male_heroes.jpg</image:loc>
+			<image:caption><![CDATA[Animated male heroes]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/animated_male_heroes_02.jpg</image:loc>
+			<image:caption><![CDATA[Animated male heroes Frozen Kristoff Hans]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/mr_incredible_maquettes.png</image:loc>
+			<image:caption><![CDATA[Mr. Incredible maquettes]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/06-glen-keane-ariel.jpg</image:loc>
+			<image:caption><![CDATA[Ariel Glen Keane]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/scott-mccloud-universality-1.jpg</image:loc>
+			<image:caption><![CDATA[Scott McCloud amplification through simplification]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/scott-mccloud-universality-2.jpg</image:loc>
+			<image:caption><![CDATA[Scott McCloud universality]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/American_BESM_2D.jpg</image:loc>
+			<image:caption><![CDATA[American BESM 2D Disney princesses]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/American_BESM.jpg</image:loc>
+			<image:caption><![CDATA[American BESM rapunzel anna ilsa]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/8f67437c2d8bbbfd5600d5e97a20788a.jpg</image:loc>
+			<image:caption><![CDATA[Kida Atlantis maquette]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/animated_female_lookalikes_04.jpg</image:loc>
+			<image:caption><![CDATA[Animated female lookalikes moms]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/dynamic_animated_females.jpg</image:loc>
+			<image:caption><![CDATA[Dynamic Animated Females]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/dynamic_animated_females_02.jpg</image:loc>
+			<image:caption><![CDATA[Dynamic Animated females]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/dynamic_animated_females_03.jpg</image:loc>
+			<image:caption><![CDATA[Dynamic Animated Females 03]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/road_to_el_dorado_chel.jpg</image:loc>
+			<image:caption><![CDATA[Road to El Dorado Chel]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/cloudy4Lg.jpg</image:loc>
+			<image:caption><![CDATA[Sam Sparks Cloudy With a Chance of Meatballs]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/PiratesBandOfMisfits_14.jpg</image:loc>
+			<image:caption><![CDATA[Aardman Pirates Band of Misfits]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/11/boxtrolls.jpg</image:loc>
+			<image:caption><![CDATA[BoxTrolls Laika studio]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/Screen-shot-2013-11-13-at-5.55.42-PM1.png</image:loc>
+			<image:caption><![CDATA[Despicable Me 2 Box Office]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/11/female_character_array.jpg</image:loc>
+			<image:caption><![CDATA[Female Character Expression Concepts]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2005/07/05/tonsil-stones/</loc>
+		<lastmod>2014-08-20T05:26:26+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2005/07/abraxis_stone_tonsil.jpg</image:loc>
+			<image:title><![CDATA[abraxis tonsil stone tonsillolith]]></image:title>
+			<image:caption><![CDATA[abraxis tonsil stone tonsillolith]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images9/abraxis_stone_tonsil.JPG</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/08/27/pyqt-and-py2app-seriously-i-dont-know-what-to-do-with-you-when-youre-like-this/</loc>
+		<lastmod>2014-08-20T05:30:04+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2009/08/macdeployqtoutput.png</image:loc>
+			<image:title><![CDATA[macdeployqt output]]></image:title>
+			<image:caption><![CDATA[macdeployqt output]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2009/08/macdeployqtoutput.png</image:loc>
+			<image:title><![CDATA[macdeployqt output]]></image:title>
+			<image:caption><![CDATA[macdeployqt output]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2013/10/07/8-reasons-walter-white-is-wile-e-coyote/</loc>
+		<lastmod>2014-08-20T05:32:53+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/walter_white_wile_e_coyote1.png</image:loc>
+			<image:title><![CDATA[Walter White Wile E. Coyote]]></image:title>
+			<image:caption><![CDATA[Walter White Wile E. Coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/10/walter_white_wile_e_coyote.png</image:loc>
+			<image:caption><![CDATA[Walter White Breaking Bad Wile E Coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/tumblr_mu3e2vDlsC1rrc7ndo1_5001.png</image:loc>
+			<image:caption><![CDATA[Walter White Breaking Bad Wile E Coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/n500f3d8ba779a.jpg</image:loc>
+			<image:caption><![CDATA[Breaking Bad Walter White Wile E Coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/2013-08-20-breakingbad_walt_desert.jpg</image:loc>
+			<image:caption><![CDATA[Breaking Bad Walter White Wile E Coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/WileECoyote.jpg</image:loc>
+			<image:caption><![CDATA[Walter White Wile E Coyote Breaking Bad]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/BB_12-660x370.jpg</image:loc>
+			<image:caption><![CDATA[Breaking Bad Walter White Wile E Coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/Zoomandbored.jpg</image:loc>
+			<image:caption><![CDATA[Breaking Bad Walter White Wile E Coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/Walter-teaching-chemistry.jpg</image:loc>
+			<image:caption><![CDATA[Walter White Wile E Coyote breaking bad]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/coyote5.jpg</image:loc>
+			<image:caption><![CDATA[Walter White Wile E Coyote Breaking Bad]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/rock-candy.jpg</image:loc>
+			<image:caption><![CDATA[Walter White Wile E Coyote Breaking Bad]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/road-runner.jpg</image:loc>
+			<image:caption><![CDATA[walter white breaking bad wile E coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/1x01_-_Walt_teaching_chemistry.jpg</image:loc>
+			<image:caption><![CDATA[Walter White Wile E Coyote Breaking Bad]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/wile-e-coyote-heli.jpg</image:loc>
+			<image:caption><![CDATA[Walter White Wile E Coyote Breaking Bad]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/yooooooooooooooo.gif</image:loc>
+			<image:caption><![CDATA[Walter White Breaking Bad Wile E Coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/CuPvnT.gif</image:loc>
+			<image:caption><![CDATA[Breaking Bad Walter White Wile E Coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/wjNzYy.gif</image:loc>
+			<image:caption><![CDATA[Breaking Bad Walter White Wile E Coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/saymyname.jpg</image:loc>
+			<image:caption><![CDATA[Breaking Bad Walter White Wile E Coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/10/images.jpg</image:loc>
+			<image:caption><![CDATA[Walter White Wile E Coyote Breaking Bad]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/19-walt-1.gif</image:loc>
+			<image:caption><![CDATA[Walter White Breaking Bad Wile E Coyote]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/10/yyT3vRt.gif</image:loc>
+			<image:caption><![CDATA[Walter White Wile E Coyote Breaking Bad]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/breaking-bad-bacon-50.jpg</image:loc>
+			<image:caption><![CDATA[breaking bad bacon birthday walter white]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/tFHMOU7.gif</image:loc>
+			<image:caption><![CDATA[walter white wile e coyote breaking bad]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2013/10/Coyote-2.gif</image:loc>
+			<image:caption><![CDATA[walter white wile e coyote breaking bad]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2013/10/vince_gilligan_chuck_jones.png</image:loc>
+			<image:caption><![CDATA[vince gilligan chuck jones walter white wile e coyote]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/05/12/meddling-auntie-recants-fashion/</loc>
+		<lastmod>2014-08-20T05:50:18+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/05/fashion_thumb.jpg</image:loc>
+			<image:title><![CDATA[meddling auntie fashion]]></image:title>
+			<image:caption><![CDATA[meddling auntie fashion]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/05/fashion_thumb.jpg</image:loc>
+			<image:caption><![CDATA[meddling auntie fashion]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/04/21/potter-meets-world/</loc>
+		<lastmod>2014-08-20T05:51:50+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/04/potter_meets_world_super1.jpg</image:loc>
+			<image:title><![CDATA[Potter Meets World]]></image:title>
+			<image:caption><![CDATA[Potter Meets World]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/04/potter_meets_world_super.jpg</image:loc>
+			<image:caption><![CDATA[Potter Meets World]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/02/12/singles-awareness-day-e-cards-2014/</loc>
+		<lastmod>2014-08-20T05:53:03+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/val2014_04.png</image:loc>
+			<image:title><![CDATA[hasten my death]]></image:title>
+			<image:caption><![CDATA[hasten my death]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/02/val2014_02.png</image:loc>
+			<image:caption><![CDATA[Valentine's Day e-Cards]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/02/val2014_03.png</image:loc>
+			<image:caption><![CDATA[Valentine's Day e-Cards]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/02/val2014_04.png</image:loc>
+			<image:caption><![CDATA[Valentine's Day e-Cards]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/02/val2014_01a.png</image:loc>
+			<image:caption><![CDATA[Valentine's Day e-Cards]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/02/val2014_01b.png</image:loc>
+			<image:caption><![CDATA[Valentine's Day e-Cards]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/02/val2014_01c.png</image:loc>
+			<image:caption><![CDATA[Valentine's Day e-Cards]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/02/val2014_01d.png</image:loc>
+			<image:caption><![CDATA[Valentine's Day e-Cards]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/02/val2014_05b.png</image:loc>
+			<image:caption><![CDATA[Valentine's Day e-Cards]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/02/val2014_05.png</image:loc>
+			<image:caption><![CDATA[Valentine's Day e-Cards]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/02/val2014_05c.png</image:loc>
+			<image:caption><![CDATA[Valentine's Day e-Cards]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/02/11/another-defense-of-frozen-the-subversive-appeal-of-disneys-new-breed-of-fairy-tale/</loc>
+		<lastmod>2014-08-20T05:54:08+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/Frozen-Screencaps-frozen-36035920-1279-531.png</image:loc>
+			<image:title><![CDATA[Frozen kristoff fixer upper]]></image:title>
+			<image:caption><![CDATA[Frozen kristoff fixer upper]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/elsa_strut_triumph.png</image:loc>
+			<image:caption><![CDATA[Elsa Frozen strut triumph]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/mother_knows_best.jpg</image:loc>
+			<image:caption><![CDATA[tangled mother knows best]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/elsa_young_afraid.png</image:loc>
+			<image:caption><![CDATA[elsa frozen afraid adult]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/elsa_young_glove.png</image:loc>
+			<image:caption><![CDATA[elsa frozen glove]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/elsa_adult_radial.png</image:loc>
+			<image:caption><![CDATA[Elsa door frozen]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-11-at-11.00.07-AM.png</image:loc>
+			<image:caption><![CDATA[frozen correction screencap]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/elsa_frozen_icicle.png</image:loc>
+			<image:caption><![CDATA[Elsa Frozen Icicle]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/anna_young_door.png</image:loc>
+			<image:caption><![CDATA[Anna young door frozen]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/frozen-disney-ana-hans-570x294.png</image:loc>
+			<image:caption><![CDATA[frozen disney anna hans boat]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/Hans_grinning_evilly_as_he_betrays_Anna.png</image:loc>
+			<image:caption><![CDATA[hans frozen villain]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/anna_adult_radial.png</image:loc>
+			<image:caption><![CDATA[Anna frozen door]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/Kristoff-Sven.jpg</image:loc>
+			<image:caption><![CDATA[kristoff sven]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-10-at-6.49.18-PM.png</image:loc>
+			<image:caption><![CDATA[frozen fixer upper trolls engulfing]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/Frozen-Screencaps-frozen-36035920-1279-531.png</image:loc>
+			<image:caption><![CDATA[Frozen kristoff fixer upper]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-10-at-6.57.55-PM.png</image:loc>
+			<image:caption><![CDATA[frozen I don't see no ring]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/pitiful_olaf_frozen.jpg</image:loc>
+			<image:caption><![CDATA[olaf frozen skull]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/Marshmallow_Disney.jpg</image:loc>
+			<image:caption><![CDATA[frozen disney marshmallow]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/Oogie-Boogie-nightmare-before-christmas-226669_640_480.jpg</image:loc>
+			<image:caption><![CDATA[oogie boogie nightmare before christmas]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/King_Gator.jpg</image:loc>
+			<image:caption><![CDATA[King Gator All Dogs Go to Heaven]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/Moana_Art.jpg</image:loc>
+			<image:caption><![CDATA[Moana concept art]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/howardashman1788.png</image:loc>
+			<image:caption><![CDATA[Howard Ashman Little Shop of Horrors]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/Kristen+Anderson+Lopez+Robert+Lopez+nx8-DFSSvd1m.jpg</image:loc>
+			<image:caption><![CDATA[Kristen Robert Lopez]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/02/carmen_twillie.jpg</image:loc>
+			<image:caption><![CDATA[Carmen Twillie]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2011/09/09/grue-trainer-part-1/</loc>
+		<lastmod>2014-08-21T17:20:57+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2011/09/DSC02518.jpg</image:loc>
+			<image:title><![CDATA[Grue trainer claw]]></image:title>
+			<image:caption><![CDATA[Grue trainer claw]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/kidnapped-mermaid-costume-tutorial.jpeg</image:loc>
+			<image:title><![CDATA[Kidnapped Mermaid Costume]]></image:title>
+			<image:caption><![CDATA[Kidnapped Mermaid Costume]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/Bruno-the-Trashman.jpeg</image:loc>
+			<image:title><![CDATA[Bruno-the-Trashman]]></image:title>
+			<image:caption><![CDATA[Bruno-the-Trashman]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/chocobo_costume_kid.jpeg</image:loc>
+			<image:title><![CDATA[chocobo_costume_kid]]></image:title>
+			<image:caption><![CDATA[chocobo_costume_kid]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/dude_part.JPG</image:loc>
+			<image:title><![CDATA[Dude Part Diagram]]></image:title>
+			<image:caption><![CDATA[Dude Part Diagram]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02485.JPG</image:loc>
+			<image:title><![CDATA[Flexible packing foam]]></image:title>
+			<image:caption><![CDATA[Flexible packing foam]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02487.JPG</image:loc>
+			<image:title><![CDATA[Dude part]]></image:title>
+			<image:caption><![CDATA[Dude part]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02488.JPG</image:loc>
+			<image:title><![CDATA[Dude part packing foam]]></image:title>
+			<image:caption><![CDATA[Dude part packing foam]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02490.JPG</image:loc>
+			<image:title><![CDATA[foam dude part with arms]]></image:title>
+			<image:caption><![CDATA[foam dude part with arms]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02492.JPG</image:loc>
+			<image:title><![CDATA[back attachment and girdle]]></image:title>
+			<image:caption><![CDATA[back attachment and girdle]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02506.JPG</image:loc>
+			<image:title><![CDATA[beige girdle robot foam]]></image:title>
+			<image:caption><![CDATA[beige girdle robot foam]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02504.JPG</image:loc>
+			<image:title><![CDATA[long black dress]]></image:title>
+			<image:caption><![CDATA[long black dress]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02498.JPG</image:loc>
+			<image:title><![CDATA[Try on 1]]></image:title>
+			<image:caption><![CDATA[Try on 1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02497.JPG</image:loc>
+			<image:title><![CDATA[girdle waist]]></image:title>
+			<image:caption><![CDATA[girdle waist]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02496.JPG</image:loc>
+			<image:title><![CDATA[pulling on the dress]]></image:title>
+			<image:caption><![CDATA[pulling on the dress]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02495.JPG</image:loc>
+			<image:title><![CDATA[pulling on the dress more]]></image:title>
+			<image:caption><![CDATA[pulling on the dress more]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02494.JPG</image:loc>
+			<image:title><![CDATA[dress on]]></image:title>
+			<image:caption><![CDATA[dress on]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02518.JPG</image:loc>
+			<image:title><![CDATA[costume claws]]></image:title>
+			<image:caption><![CDATA[costume claws]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02517.JPG</image:loc>
+			<image:title><![CDATA[costume claws]]></image:title>
+			<image:caption><![CDATA[costume claws]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2011/09/DSC02529.JPG</image:loc>
+			<image:title><![CDATA[spooky claw face]]></image:title>
+			<image:caption><![CDATA[spooky claw face]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2005/08/01/amusements-10/</loc>
+		<lastmod>2014-08-21T17:24:27+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2005/08/fantastic_four_poster.jpg</image:loc>
+			<image:title><![CDATA[Fantastic Four poster]]></image:title>
+			<image:caption><![CDATA[Fantastic Four poster]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images10/fantastic_four_poster.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images10/fantastic_four_reed.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images10/fantastic_four_ben.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images10/fantastic_four_giddy.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images10/fantastic_four_johnny.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images10/aniston_biel_gellar.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/images10/fantastic_four_sue.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/03/31/a-young-girl-defending-herself-against-eros/</loc>
+		<lastmod>2014-09-01T23:05:17+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2008/03/417px-william-adolphe_bouguereau_1825-1905_-_a_young_girl_defending_herself_against_eros_1880.jpg</image:loc>
+			<image:title><![CDATA[Wiliam Adolphe Bouguereau young girl defending herself against eros 1880]]></image:title>
+			<image:caption><![CDATA[Wiliam Adolphe Bouguereau young girl defending herself against eros 1880]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/03/417px-william-adolphe_bouguereau_1825-1905_-_a_young_girl_defending_herself_against_eros_1880.jpg</image:loc>
+			<image:caption><![CDATA[Girl Defending Herself Against Eros small]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/09/12/bechdel-test-revisited-women-heros-journey/</loc>
+		<lastmod>2014-09-12T13:00:16+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/08/guardians-of-the-galaxy-trailer-breakdown-23.jpg</image:loc>
+			<image:title><![CDATA[Bechdel test revisited guardians of the galaxy]]></image:title>
+			<image:caption><![CDATA[Bechdel test revisited guardians of the galaxy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/07/23/denver-airport-horse/</loc>
+		<lastmod>2014-09-02T18:11:57+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2009/07/denver_airport_horse1.jpg</image:loc>
+			<image:title><![CDATA[Denver airport horse]]></image:title>
+			<image:caption><![CDATA[Denver airport horse]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/07/denver_airport_horse_storm.jpg</image:loc>
+			<image:title><![CDATA[Later that same winter...]]></image:title>
+			<image:caption><![CDATA[Later that same winter...]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/07/denver_airport_horse1.jpg</image:loc>
+			<image:title><![CDATA[There came a killin frost...]]></image:title>
+			<image:caption><![CDATA[There came a killin frost...]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/07/denver_airport_horse_blue.jpg</image:loc>
+			<image:title><![CDATA[And the pony she named Wild-fi-i-i-ire...]]></image:title>
+			<image:caption><![CDATA[And the pony she named Wild-fi-i-i-ire...]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/07/denver_airport_horse_lit.jpg</image:loc>
+			<image:title><![CDATA[In a blizzard, he was lost...]]></image:title>
+			<image:caption><![CDATA[In a blizzard, he was lost...]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/07/denver_airport_horse_night.jpg</image:loc>
+			<image:title><![CDATA[Calling Wi-i-i-i oh Jesus Lord what the crapping crap?!]]></image:title>
+			<image:caption><![CDATA[Calling Wi-i-i-i oh Jesus Lord what the crapping crap?!]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/07/denver_airport_mural.jpg</image:loc>
+			<image:title><![CDATA[Gas mask... check... weeping woman... check...]]></image:title>
+			<image:caption><![CDATA[Gas mask... check... weeping woman... check...]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/03/10/vector-cookie/</loc>
+		<lastmod>2014-09-19T17:33:28+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2008/03/cookie-full.jpg</image:loc>
+			<image:title><![CDATA[vector cookie]]></image:title>
+			<image:caption><![CDATA[vector cookie]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/03/cookie-vector-sm.jpg</image:loc>
+			<image:caption><![CDATA[Cookie vector sm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/03/cookie-cup.jpg</image:loc>
+			<image:caption><![CDATA[Cookie Cup]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2008/07/26/sex-intimacy-and-rasslin/</loc>
+		<lastmod>2014-09-19T17:34:06+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2008/07/east_chimpanzee_main103936_14840.jpg</image:loc>
+			<image:title><![CDATA[chimpanzee grooming]]></image:title>
+			<image:caption><![CDATA[chimpanzee grooming]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/east_chimpanzee_main103936_14840.jpg</image:loc>
+			<image:caption><![CDATA[east_chimpanzee_main103936_14840.jpg]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/itsuki-yamazaki-vs-plum-mariko-wrestling.jpg</image:loc>
+			<image:caption><![CDATA[itsuki-yamazaki-vs-plum-mariko-wrestling.jpg]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2008/07/wrestling.jpg</image:loc>
+			<image:caption><![CDATA[wrestling.jpg]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/09/22/shame-cakes/</loc>
+		<lastmod>2014-09-22T16:41:37+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/09/2011-05-24-shame-cakes.jpg</image:loc>
+			<image:title><![CDATA[Shame Cakes]]></image:title>
+			<image:caption><![CDATA[Shame Cakes]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/09/2011-05-24-shame-cakes.jpg</image:loc>
+			<image:caption><![CDATA[Shame Cakes]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/09/quakebuttock.png</image:loc>
+			<image:caption><![CDATA[quakebuttock]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/07/11/4-reasons-cartoons-matter/</loc>
+		<lastmod>2014-09-29T01:26:06+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/08/Rick_And_Morty_Something_Ricked_This_Way_Comes.jpg</image:loc>
+			<image:title><![CDATA[Rick and Morty Something Ricked This Way Comes]]></image:title>
+			<image:caption><![CDATA[Rick and Morty Something Ricked This Way Comes]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/10/07/zivas-conjury-mart/</loc>
+		<lastmod>2014-10-07T13:00:29+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/zcm_cover_art_sm.jpg</image:loc>
+			<image:title><![CDATA[Ziva's Conjury Mart]]></image:title>
+			<image:caption><![CDATA[Ziva's Conjury Mart]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/zcm_cover_art_sm.jpg</image:loc>
+			<image:caption><![CDATA[Ziva's Conjury Mart]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/10/10/drawn-drag-examining-male-voice-actors-cast-female-roles/</loc>
+		<lastmod>2014-10-10T21:30:29+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/09/SNL-Gap-Girls.png</image:loc>
+			<image:title><![CDATA[SNL Gap Girls]]></image:title>
+			<image:caption><![CDATA[SNL Gap Girls]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/09/SNL-Gap-Girls.png</image:loc>
+			<image:caption><![CDATA[SNL Gap Girls]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/09/jack_and_jill.jpg</image:loc>
+			<image:caption><![CDATA[Jack and Jill movie theater still]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/09/linda_belcher.jpg</image:loc>
+			<image:caption><![CDATA[Linda Belcher Bob's Burgers smiling]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/09/tina_Belcher.jpg</image:loc>
+			<image:caption><![CDATA[Tina Belcher Bob's Burgers Dan Mintz]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/09/lumpy_space_princess.png</image:loc>
+			<image:caption><![CDATA[Lumpy Space Princess]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/09/Edna_Mode.jpg</image:loc>
+			<image:caption><![CDATA[Edna E Mode Incredibles]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/09/roz_monsters_inc.png</image:loc>
+			<image:caption><![CDATA[Roz Monsters Inc]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/09/dr_girlfriend.jpg</image:loc>
+			<image:caption><![CDATA[dr girlfriend venture brothers]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/08/06/paint-spill/</loc>
+		<lastmod>2014-10-10T23:50:58+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/08/paint_spill_super.jpg</image:loc>
+			<image:title><![CDATA[Paint Spill Tory Hoke]]></image:title>
+			<image:caption><![CDATA[Paint Spill Tory Hoke]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/08/paint_spill_super.jpg</image:loc>
+			<image:caption><![CDATA[Paint Spill Tory Hoke]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/08/05/river-baby/</loc>
+		<lastmod>2014-10-10T23:51:35+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2014/08/river_baby_super.jpg</image:loc>
+			<image:title><![CDATA[River Baby Tory Hoke]]></image:title>
+			<image:caption><![CDATA[River Baby Tory Hoke]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2014/08/river_baby_super.jpg</image:loc>
+			<image:caption><![CDATA[River Baby Tory Hoke]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/11/11/28-silly-things-about-interstellar/</loc>
+		<lastmod>2014-11-25T20:11:00+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/interstellar-matthew-mccounaughey-david-gyasi-anne-hathaway.jpg</image:loc>
+			<image:title><![CDATA[interstellar-matthew-mccounaughey-david-gyasi-anne-hathaway]]></image:title>
+			<image:caption><![CDATA[interstellar-matthew-mccounaughey-david-gyasi-anne-hathaway]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/interstellar-movie-still-007-1500x1000.jpg</image:loc>
+			<image:caption><![CDATA[interstellar mackenzie foy matthew mcconaughey]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/interstellar-matthew-mccounaughey-david-gyasi-anne-hathaway.jpg</image:loc>
+			<image:caption><![CDATA[interstellar-matthew-mccounaughey-david-gyasi-anne-hathaway]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/Interstellar-Trailer-3-01.jpg</image:loc>
+			<image:caption><![CDATA[interstellar matthew mcconaughey]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/interstellar-1-videoSixteenByNine1050.jpg</image:loc>
+			<image:caption><![CDATA[interstellar amelia brand anne hathaway]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/Interstellar-David-Gyasi-1.jpg</image:loc>
+			<image:caption><![CDATA[interstella david gyasi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/960x539xInterstellar_02-1024x575.jpg.pagespeed.ic_.WMyZLExZ6r.jpg</image:loc>
+			<image:caption><![CDATA[interstallar anne hathaway amelia brand]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/interstellar-jessica-chastain-murphy-cooper.jpg</image:loc>
+			<image:caption><![CDATA[Interstellar jessica chastain murphy cooper burn corn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/interstellar-2014-casey-affleck-tom.jpg</image:loc>
+			<image:caption><![CDATA[Interstellar 2014 casey affleck tom]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/Michael-Caine-Interstellar.jpg</image:loc>
+			<image:caption><![CDATA[interstellar michael caine professor brand]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/the-stand-tom-cullen.jpg</image:loc>
+			<image:caption><![CDATA[the stand tom cullen bill fagerbakke]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/11/18/barbarian-gate-five-ways-protect-twines-village-coming-invasion/</loc>
+		<lastmod>2014-11-25T20:12:35+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/Screen-Shot-2014-11-10-at-3.46.49-PM.png</image:loc>
+			<image:title><![CDATA[Twine icon]]></image:title>
+			<image:caption><![CDATA[Twine icon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/Screen-Shot-2014-11-10-at-3.46.49-PM.png</image:loc>
+			<image:caption><![CDATA[Twine icon]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/11/14/5-stages-white-person-trying-write-person-color/</loc>
+		<lastmod>2014-11-25T20:13:20+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2011-02-03-read-the-flippin-manual.png</image:loc>
+			<image:title><![CDATA[2011-02-03-read-the-flippin-manual]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2011/06/wrist_front.jpeg</image:loc>
+			<image:caption><![CDATA[Read the Flippin Manual Sneaky VFX]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/12/12/8-things-arguing-internet-taught-people/</loc>
+		<lastmod>2014-12-12T14:00:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2014/12/11/dead-week/</loc>
+		<lastmod>2014-12-11T17:00:11+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/start.png</image:loc>
+			<image:title><![CDATA[Dead Week]]></image:title>
+			<image:caption><![CDATA[Dead Week]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/twine/deadWeek/centralImages/start.png</image:loc>
+			<image:caption><![CDATA[Dead Week]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2015/01/23/in-2015-you-will-read-interactive-fiction-and-maybe-write-it/</loc>
+		<lastmod>2015-01-23T14:00:10+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/Screen-Shot-2014-11-10-at-3.46.49-PM.png</image:loc>
+			<image:title><![CDATA[Twine icon]]></image:title>
+			<image:caption><![CDATA[Twine icon]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2015/01/23/dragon-age-inquisition-missing-tarot-cards/</loc>
+		<lastmod>2015-01-23T20:52:00+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/cullen_light_tarot_card_sm.png</image:loc>
+			<image:title><![CDATA[cullen_light_tarot_card_sm]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/leliana_light_tarot_card_sm.png</image:loc>
+			<image:title><![CDATA[leliana_light_tarot_card_sm]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/leliana_dark_tarot_card_sm.png</image:loc>
+			<image:title><![CDATA[leliana_dark_tarot_card_sm]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/josephine_light_tarot_card_sm.png</image:loc>
+			<image:title><![CDATA[josephine_light_tarot_card_sm]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/josephine_dark_tarot_card_sm.png</image:loc>
+			<image:title><![CDATA[josephine_dark_tarot_card_sm]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/cullen_romance_tarot_card_sm.png</image:loc>
+			<image:title><![CDATA[cullen_romance_tarot_card_sm]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/cullen_light_tarot_card_sm.png</image:loc>
+			<image:title><![CDATA[cullen_light_tarot_card_sm]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/cullen_dark_tarot_card_sm.png</image:loc>
+			<image:title><![CDATA[cullen_dark_tarot_card_sm]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2015/03/10/secret-life-programming/</loc>
+		<lastmod>2015-03-10T13:00:44+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/sneakyvfxButton.png</image:loc>
+			<image:title><![CDATA[sneakyvfxButton]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/source_code_sneaky_vfx.png</image:loc>
+			<image:caption><![CDATA[source code sneaky vfx]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/brain_stimulation_sneaky_vfx.png</image:loc>
+			<image:caption><![CDATA[brain stimulation sneaky vfx]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/old_wrinkled_potato.jpg</image:loc>
+			<image:caption><![CDATA[old wrinkled potato]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2015/02/24/twine-10-minutes-write-interactive-fiction-today/</loc>
+		<lastmod>2015-02-24T14:00:05+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/Screen-Shot-2015-02-05-at-1.40.33-PM.png</image:loc>
+			<image:title><![CDATA[getting started with twine 2]]></image:title>
+			<image:caption><![CDATA[getting started with twine 2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2011/12/onePager.jpg</image:loc>
+			<image:caption><![CDATA[twine_2_passage_prince]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2015/03/13/spring-2015-cartoon-preview/</loc>
+		<lastmod>2015-03-13T13:00:35+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/home-dreamworks-2015.jpg</image:loc>
+			<image:title><![CDATA[home-dreamworks-2015]]></image:title>
+			<image:caption><![CDATA[home-dreamworks-2015]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/home-dreamworks-2015.jpg</image:loc>
+			<image:caption><![CDATA[home-dreamworks-2015]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/underdogs-catmandu-2015.jpg</image:loc>
+			<image:caption><![CDATA[underdogs-catmandu-2015]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/shaun-the-sheep-aardman-2015.jpg</image:loc>
+			<image:caption><![CDATA[Shaun the Sheep the Movie]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2015/04/10/3-animators-that-will-explode-your-brain/</loc>
+		<lastmod>2015-04-13T23:33:12+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/04/sita1.png</image:loc>
+			<image:title><![CDATA[Nina Paley Sita Sings the Blues]]></image:title>
+			<image:caption><![CDATA[Nina Paley Sita Sings the Blues]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/04/sita1.png</image:loc>
+			<image:caption><![CDATA[Nina Paley Sita Sings the Blues]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/04/06Melt_2.png</image:loc>
+			<image:caption><![CDATA[Nina Paley Seder Masochism]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/04/Casey4.jpg</image:loc>
+			<image:caption><![CDATA[Nina Paley Casey Jones]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/04/elephants-garden-felix-colgrave.png</image:loc>
+			<image:caption><![CDATA[elephants-garden-felix-colgrave]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/04/Felix-Colgrave-5.jpg</image:loc>
+			<image:caption><![CDATA[Felix Colgrave Fever the Ghost]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/04/cyriak.jpg</image:loc>
+			<image:caption><![CDATA[Cyriak Harris cat]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/04/cyriak_cows.jpg</image:loc>
+			<image:caption><![CDATA[Cyriak Cows]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2015/04/21/meddling-auntie-comics-new-release-plus-giveaway/</loc>
+		<lastmod>2015-04-22T21:18:47+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/FrontCover_550px.jpg</image:loc>
+			<image:title><![CDATA[Meddling Auntie presents Puberty]]></image:title>
+			<image:caption><![CDATA[Meddling Auntie presents Puberty]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/FrontCover_550px.jpg</image:loc>
+			<image:caption><![CDATA[Meddling Auntie presents Puberty]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2011/11/subscribe-button.jpg</image:loc>
+			<image:caption><![CDATA[subscribe-button]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2015/04/23/b-is-for-broken-cover-reveal/</loc>
+		<lastmod>2015-04-23T13:00:13+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/04/B_is_for_Broken_Rhonda_Parrish_Tory_Hoke.jpg</image:loc>
+			<image:title><![CDATA[B_is_for_Broken_Rhonda_Parrish_Tory_Hoke]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/04/BisforBroken_Cover_v2-686x1024.jpg</image:loc>
+			<image:caption><![CDATA[BisforBroken_Cover_v2-686x1024]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2015/04/B_is_for_Broken_Rhonda_Parrish_Tory_Hoke.jpg</image:loc>
+			<image:caption><![CDATA[B_is_for_Broken_Rhonda_Parrish_Tory_Hoke]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2015/05/04/meddling-auntie-on-lesbian-com/</loc>
+		<lastmod>2015-05-04T19:13:47+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/05/IMG_0370-e1430694829644.png</image:loc>
+			<image:title><![CDATA[Meddling Auntie presents Puberty]]></image:title>
+			<image:caption><![CDATA[Meddling Auntie presents Puberty]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-04-at-12.12.55-PM.png</image:loc>
+			<image:caption><![CDATA[lesbian.com]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/05/IMG_0370-e1430694829644.png</image:loc>
+			<image:caption><![CDATA[Meddling Auntie presents Puberty]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2015/08/31/submit-to-sub-q-magazine/</loc>
+		<lastmod>2015-08-31T13:00:36+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/08/computer_keyboard.jpg</image:loc>
+			<image:title><![CDATA[submit to sub-Q Magazine]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2015/08/ampoule-submit.png</image:loc>
+			<image:caption><![CDATA[submit to sub-Q Magazine]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2015/10/13/dead-week-remastered/</loc>
+		<lastmod>2015-10-13T16:40:45+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/10/deadWeekStart.png</image:loc>
+			<image:title><![CDATA[Dead Week by Tory Hoke]]></image:title>
+			<image:caption><![CDATA[Dead Week by Tory Hoke]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2009/07/14/willow-some-stuff-you-maybe-didnt-know-about-it/</loc>
+		<lastmod>2015-10-19T17:27:05+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2009/07/willow_mad_martigan.jpg</image:loc>
+			<image:title><![CDATA[Willow Mad Martigan Ufgood]]></image:title>
+			<image:caption><![CDATA[Willow Mad Martigan Ufgood]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/07/willow_mad_martigan.jpg</image:loc>
+			<image:title><![CDATA[In the 80s, a lot of people rode Val Kilmer]]></image:title>
+			<image:caption><![CDATA[In the 80s, a lot of people rode Val Kilmer]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/07/jean_marsh_in_the_day.png</image:loc>
+			<image:title><![CDATA[Classically-trained face]]></image:title>
+			<image:caption><![CDATA[Classically-trained face]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/07/jean_marsh.jpeg</image:loc>
+			<image:title><![CDATA[Still]]></image:title>
+			<image:caption><![CDATA[Still classically-trained face]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp/wp-content/uploads/2009/07/fin_raziel_patricia_hayes.png</image:loc>
+			<image:title><![CDATA[Like Ben Gibbard, I can't wait to go gray]]></image:title>
+			<image:caption><![CDATA[Like Ben Gibbard, I can't wait to go gray]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2015/11/23/background-check-your-doctor/</loc>
+		<lastmod>2015-12-02T20:06:34+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/11/background-check-your-doctor.jpg</image:loc>
+			<image:title><![CDATA[Background Check your Doctor review aggregator software download dr norma c. salceda md]]></image:title>
+			<image:caption><![CDATA[Background Check your Doctor review aggregator software download dr norma c. salceda md]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2015/11/background-check-your-doctor_wide.jpg</image:loc>
+			<image:caption><![CDATA[Background Check your Doctor review aggregator software download dr norma c. salceda md]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/11/PCPInvestigator-report-doctor-reviews.png</image:loc>
+			<image:caption><![CDATA[PCP Investigator report doctor reviews ratings]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/11/norma-c-salceda-md-ratings-snapshot.png</image:loc>
+			<image:caption><![CDATA[Norma C. Salceda MD Dr reviews ratings snapshot]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2015/11/dr-norma-c-salceda-md-ratings-reviews-snapshot.png</image:loc>
+			<image:caption><![CDATA[Norma C. Salceda MD Dr reviews ratings snapshot]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2016/01/28/printable-poster-for-zika-travel-awareness/</loc>
+		<lastmod>2016-02-10T17:35:13+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/01/arbovirus_travel_warning_8-5x11_v02_english_blank.jpg</image:loc>
+			<image:caption><![CDATA[Arbovirus zika travel warning pregnant women pregnancy poster printable warning]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/01/Screen-Shot-2016-02-10-at-9.31.54-AM.png</image:loc>
+			<image:caption><![CDATA[City of Chicago Zika awareness poster]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2016/04/27/dear-fertile-people/</loc>
+		<lastmod>2016-04-27T13:00:43+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/04/women-disappointed-by-the-end-of-a-movie-xs.jpg</image:loc>
+			<image:title><![CDATA[Women disappointed by the end of a movie]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/04/sad-asian-girl-looking-at-pregnancy-test-sitting-on-floor-s.jpg</image:loc>
+			<image:caption><![CDATA[Chairs are for fertile people.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/04/infertile-couple-giving-a-bribe-xs.jpg</image:loc>
+			<image:caption><![CDATA[Hey, Doc, maybe this'll change your mind...]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/04/woman-injecting-drugs-to-prepare-for-ivf-treatment-xs.jpg</image:loc>
+			<image:caption><![CDATA[God's plan involves a lot of needles.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/04/woman-holding-pregnancy-test-xs.jpg</image:loc>
+			<image:caption><![CDATA[This is because you didn't eat enough pineapple.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/04/cheerless-couple-finding-out-results-of-a-pregnancy-test-s.jpg</image:loc>
+			<image:caption><![CDATA[The Tundra Hover Bed didn't work either.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/04/sad-woman-with-pregnancy-test-kit-s.jpg</image:loc>
+			<image:caption><![CDATA["Maybe if I hold it sideways..."]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/04/in-vitro-pregnancy-s.jpg</image:loc>
+			<image:caption><![CDATA[Even this woman is more pregnant than you.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2016/04/doctor-retrieving-eggs-using-ultrasound-xs.jpg</image:loc>
+			<image:caption><![CDATA[CLOSE. THE. DOOR.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2016/04/28/dear-infertile-people/</loc>
+		<lastmod>2016-04-28T13:00:46+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/04/infertile_spiderman_desk.jpg</image:loc>
+			<image:title><![CDATA[Pregnant people swapping stories and I'm just sitting here being infertile.]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/04/infertile_spiderman_desk.jpg</image:loc>
+			<image:caption><![CDATA[Pregnant people swapping stories and I'm just sitting here being infertile.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2016/04/alcoholics-anonymous-life-become-unmanageable.jpeg</image:loc>
+			<image:caption><![CDATA[Step One: we admitted we were powerless over infertility, and that our lives had become unmanageable.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2016/04/butthurt_everywhere.jpg</image:loc>
+			<image:caption><![CDATA[But I still use the word "butthurt," so...]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2016/04/dragon_age_inquisition2.jpg</image:loc>
+			<image:caption><![CDATA[Seriously like 150 hours.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2016/04/29/dear-self-one-year-after-ivf/</loc>
+		<lastmod>2016-04-30T02:06:19+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/04/dear-self-one-year-after-IVF.jpg</image:loc>
+			<image:title><![CDATA[Dear Self one year after IVF]]></image:title>
+			<image:caption><![CDATA[Dear Self one year after IVF]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2016/04/dear-self-one-year-after-IVF.jpg</image:loc>
+			<image:caption><![CDATA[Dear Self one year after IVF]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2016/07/17/jacob-tiberius-dog-hoke-woodward-an-obituary/</loc>
+		<lastmod>2016-07-17T13:00:53+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/07/jacob-tiberius-dog-hoke-woodward_profile.jpg</image:loc>
+			<image:title><![CDATA[Jacob Tiberius Dog Woodward dead at 13]]></image:title>
+			<image:caption><![CDATA[Jacob Tiberius Dog Woodward dead at 13]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/07/jacob-tiberius-dog-hoke-woodward_profile.jpg</image:loc>
+			<image:caption><![CDATA[Jacob Tiberius Dog Woodward dead at 13]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2016/11/13/now-what/</loc>
+		<lastmod>2016-11-13T14:00:56+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2016/11/after-election-what-now-2016.jpg</image:loc>
+			<image:title><![CDATA[After election what now]]></image:title>
+			<image:caption><![CDATA[After election what now]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2016/11/after-election-what-now-2016.jpg</image:loc>
+			<image:caption><![CDATA[After election what now]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2006/01/11/amusements-68/</loc>
+		<lastmod>2020-08-23T00:39:18+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp/images11/matthew_1_sm.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp/images11/bruce_campbell.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2020/08/24/ridiculous-original-gifs/</loc>
+		<lastmod>2020-08-24T13:40:51+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2020/08/Screen-Shot-2020-08-21-at-9.05.06-AM.png</image:loc>
+			<image:title><![CDATA[Ridiculous original gifs]]></image:title>
+			<image:caption><![CDATA[Ridiculous original gifs]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2012/04/13/nolans-catwoman/</loc>
+		<lastmod>2020-08-27T18:58:30+00:00</lastmod>
+		<image:image>
+			<image:loc>http://toryhoke.com/wp-content/uploads/2012/04/nolans_catwoman.jpeg</image:loc>
+			<image:title><![CDATA[Christopher Nolan's Catwoman Anne Hathaway in costume]]></image:title>
+			<image:caption><![CDATA[Christopher Nolan's Catwoman Anne Hathaway in costume]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/04/88789_gal.jpeg</image:loc>
+			<image:title><![CDATA[anne hathaway catwoman dark knight rises]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/04/dark_knight_rises_sensible_shoes.jpeg</image:loc>
+			<image:title><![CDATA[dark_knight_rises_sensible_shoes]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/04/dark_knight_rises_no_trigger_discipline.png</image:loc>
+			<image:title><![CDATA[dark knight rises no trigger discipline]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/04/dark_knight_rises_characters1.png</image:loc>
+			<image:title><![CDATA[dark_knight_rises_characters]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://toryhoke.com/wp-content/uploads/2012/04/dark_knight_gritty.jpeg</image:loc>
+			<image:title><![CDATA[dark_knight_gritty]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://toryhoke.com/2020/10/06/a-short-history-of-algorithms/</loc>
+		<lastmod>2020-10-06T13:00:00+00:00</lastmod>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: toryhoke.com @ 2022-06-28 13:05:12 by W3 Total Cache
+-->

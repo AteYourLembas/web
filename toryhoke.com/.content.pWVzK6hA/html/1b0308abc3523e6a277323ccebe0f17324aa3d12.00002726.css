@@ -1,0 +1,64 @@
+BODY
+{
+	margin-left:0px;
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+}
+TD, TH {
+	vertical-align: top;
+}
+a {
+	font-family: "Trebuchet MS", "Bitstream Vera Serif", Utopia, "Times New Roman", times, serif;
+}
+a:link {
+	color:#3b7994;
+	text-decoration:none;
+}      /* unvisited link */
+
+
+a:visited {
+	color:#3b7994;
+	text-decoration:none;
+}      /* visited link */
+
+a:hover {
+	color:#84bed7;
+	text-decoration:underline;
+}  /* mouse over link */
+
+a:active {
+	color:#84bed7;
+	text-decoration:underline;
+}  /* selected link */
+
+.main_image {
+	float: left;
+	margin: 0;
+	border-style: solid; 
+	border-color: white;
+	border-width: 4px;
+}
+.button_image {
+	float: left;
+	margin: 0;
+	border-style: solid; 
+	border-color: #AAA;
+	border-width: 2px;
+}
+.bar_image {
+	border-width: 0px;
+}
+.copy
+{
+	font-family:Palatino, Times, Serif;
+	font-size:12px;
+	color:#666666;
+}
+.description
+{
+	font-family: "Trebuchet MS", "Bitstream Vera Serif", Utopia, "Times New Roman", times, serif;
+	font-size:12px;
+	color:#000000;
+        text-align:right;
+}

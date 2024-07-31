@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lois is an alien &#8211; The Tory Party</title>
+	<atom:link href="/tag/lois-is-an-alien/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 21 Jan 2018 07:16:13 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>	<item>
+		<title>Lois Lane&#8217;s secret in Man of Steel</title>
+		<link>https://toryhoke.com/2013/06/17/lois-lanes-secret-in-man-of-steel/</link>
+				<comments>https://toryhoke.com/2013/06/17/lois-lanes-secret-in-man-of-steel/#comments</comments>
+				<pubDate>Mon, 17 Jun 2013 18:55:36 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Thoughtful Heckler]]></category>
+		<category><![CDATA[heckling]]></category>
+		<category><![CDATA[it all makes sense now]]></category>
+		<category><![CDATA[lois is an alien]]></category>
+		<category><![CDATA[superheroes]]></category>
+		<category><![CDATA[superman]]></category>
+
+		<guid isPermaLink="false">http://www.thetoryparty.com/?p=5909</guid>
+				<description><![CDATA[<p>I was all mad at this movie, with its on-the-nose dialogue, repetitive exposition and female characters with zero agency. Roll-up-the-sleeves mad. Children of Men mad. Mad. Then I realized Lois Lane&#8217;s secret, and now I&#8217;m OK with it. Spoilers ahead. You know how I be. Lois is an alien dispatched by the Guardians of the&#8230; <a href="/2013/06/17/lois-lanes-secret-in-man-of-steel/" class="more-link">Continue reading <span class="screen-reader-text">Lois Lane&#8217;s secret in Man of Steel</span></a></p>
+<div class="tptn_counter" id="tptn_counter_5909">(3,854 visits, 3 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+						<wfw:commentRss>https://toryhoke.com/2013/06/17/lois-lanes-secret-in-man-of-steel/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">5909</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 03:40:08 by W3 Total Cache
+-->

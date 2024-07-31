@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>slightly obsessed &#8211; The Tory Party</title>
+	<atom:link href="/tag/slightly-obsessed/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 21 Jan 2018 07:16:13 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>	<item>
+		<title>Dragon Age Inquisition: Missing Tarot Cards</title>
+		<link>https://toryhoke.com/2015/01/23/dragon-age-inquisition-missing-tarot-cards/</link>
+				<pubDate>Fri, 23 Jan 2015 15:00:15 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Amusements]]></category>
+		<category><![CDATA[Illustration]]></category>
+		<category><![CDATA[Professional]]></category>
+		<category><![CDATA[advisors]]></category>
+		<category><![CDATA[commander cullen]]></category>
+		<category><![CDATA[cullen]]></category>
+		<category><![CDATA[cullen rutherford]]></category>
+		<category><![CDATA[DA:I]]></category>
+		<category><![CDATA[dawn will come]]></category>
+		<category><![CDATA[dragon age]]></category>
+		<category><![CDATA[dragon age inquisition]]></category>
+		<category><![CDATA[inner circle]]></category>
+		<category><![CDATA[inquisition]]></category>
+		<category><![CDATA[josephine]]></category>
+		<category><![CDATA[leliana]]></category>
+		<category><![CDATA[romance]]></category>
+		<category><![CDATA[slightly obsessed]]></category>
+		<category><![CDATA[tarot cards]]></category>
+
+		<guid isPermaLink="false">http://toryhoke.com/?p=8426</guid>
+				<description><![CDATA[<p>Thanks to inspiration from /u/YouLeaveMeNoChoice and /u/Shady_Intent, here are seven of the missing eight tarot cards from Dragon Age: Inquisition. I&#8217;m still working on Josephine&#8217;s romance card. I made one, it just turned out goofy. Will fix soon. Stay tuned.</p>
+<div class="tptn_counter" id="tptn_counter_8426">(1,285 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">8426</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 03:39:33 by W3 Total Cache
+-->

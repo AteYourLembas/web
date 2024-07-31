@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>&#8216;cos it already is &#8211; The Tory Party</title>
+	<atom:link href="/tag/cos-it-already-is/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 21 Jan 2018 07:16:13 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>	<item>
+		<title>To Pete Yorn on This, My Wedding Day</title>
+		<link>https://toryhoke.com/2013/04/27/to-pete-yorn-on-this-my-wedding-day/</link>
+				<comments>https://toryhoke.com/2013/04/27/to-pete-yorn-on-this-my-wedding-day/#comments</comments>
+				<pubDate>Sat, 27 Apr 2013 16:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Cats and Dogs]]></category>
+		<category><![CDATA[Wedding Things]]></category>
+		<category><![CDATA['cos it already is]]></category>
+		<category><![CDATA[pete yorn]]></category>
+		<category><![CDATA[sentimental reasons]]></category>
+
+		<guid isPermaLink="false">http://www.thetoryparty.com/?p=5618</guid>
+				<description><![CDATA[<p>Dear Pete Yorn, I&#8217;m getting married today. This is thanks in part to you and a song you wrote twelve years ago. We&#8217;ve met only once, a passing greeting after one of your shows, the kind of exchange you must have many times a day with many strangers. But you are a musician. And music&#8230; <a href="/2013/04/27/to-pete-yorn-on-this-my-wedding-day/" class="more-link">Continue reading <span class="screen-reader-text">To Pete Yorn on This, My Wedding Day</span></a></p>
+<div class="tptn_counter" id="tptn_counter_5618">(1,292 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+						<wfw:commentRss>https://toryhoke.com/2013/04/27/to-pete-yorn-on-this-my-wedding-day/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">5618</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 03:40:42 by W3 Total Cache
+-->

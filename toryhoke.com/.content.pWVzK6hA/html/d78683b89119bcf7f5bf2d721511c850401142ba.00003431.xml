@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jaunty &#8211; The Tory Party</title>
+	<atom:link href="/tag/jaunty/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 21 Jan 2018 07:16:13 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>	<item>
+		<title>Motte and Bailey Walk Cycle Tests</title>
+		<link>https://toryhoke.com/2013/02/27/motte-and-bailey-walk-cycle-tests/</link>
+				<pubDate>Wed, 27 Feb 2013 14:00:48 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Orcs and Elves]]></category>
+		<category><![CDATA[amble]]></category>
+		<category><![CDATA[animation tests]]></category>
+		<category><![CDATA[jaunty]]></category>
+		<category><![CDATA[orcs]]></category>
+		<category><![CDATA[put long skirts on everyone]]></category>
+		<category><![CDATA[saunter]]></category>
+		<category><![CDATA[walk cycle]]></category>
+
+		<guid isPermaLink="false">http://www.thetoryparty.com/?p=4775</guid>
+				<description><![CDATA[<p>In the course of defending their lunch, Motte and Bailey and the orks needed to get around. Toon Boom makes it easy to drop in walk cycle frames. I just had to figure out how to do the walks. Bailey A little spring in her step. After this, I would have put skirts on everyone&#8230; <a href="/2013/02/27/motte-and-bailey-walk-cycle-tests/" class="more-link">Continue reading <span class="screen-reader-text">Motte and Bailey Walk Cycle Tests</span></a></p>
+<div class="tptn_counter" id="tptn_counter_4775">(250 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">4775</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 03:42:49 by W3 Total Cache
+-->

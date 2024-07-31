@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: PyQt and py2app: Seriously I don&#8217;t know what to do with you when you&#8217;re like this</title>
+	<atom:link href="/2009/08/27/pyqt-and-py2app-seriously-i-dont-know-what-to-do-with-you-when-youre-like-this/feed/" rel="self" type="application/rss+xml" />
+	<link>http://toryhoke.com/2009/08/27/pyqt-and-py2app-seriously-i-dont-know-what-to-do-with-you-when-youre-like-this/</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>Wed, 27 Apr 2016 15:07:16 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.8</generator>
+	<item>
+		<title>By: Tory</title>
+		<link>http://toryhoke.com/2009/08/27/pyqt-and-py2app-seriously-i-dont-know-what-to-do-with-you-when-youre-like-this/comment-page-1/#comment-64353</link>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Mon, 01 Apr 2013 21:50:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2174#comment-64353</guid>
+		<description><![CDATA[Thank you for this update! This gives me courage for next time. Good job getting it to work!]]></description>
+		<content:encoded><![CDATA[<p>Thank you for this update! This gives me courage for next time. Good job getting it to work!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: thblt</title>
+		<link>http://toryhoke.com/2009/08/27/pyqt-and-py2app-seriously-i-dont-know-what-to-do-with-you-when-youre-like-this/comment-page-1/#comment-64247</link>
+		<dc:creator><![CDATA[thblt]]></dc:creator>
+		<pubDate>Sat, 30 Mar 2013 20:48:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2174#comment-64247</guid>
+		<description><![CDATA[Ok, it&#039;s been three years since this post and the world has changed, but I found a stupid, but seemingly working, way to have my app bundle embed the *svg* plugins, which wasn&#039;t included by default, and btw to fix the &quot;you might be loading two sets of Qt binaries” infamous error. Your post helped me on the first part with the pointer to macdeployqt, I found out that the best, although dirty, way to finally achieve my end was :
+
+1. python3 setup.py py2app
+2. macdeployqt dist/Tkacz.app 
+(Ignore the long “WARNING: Could not find any external (...) before trying again.”
+3. cp /Developer/Applications/Qt/plugins/imageformats/libqsvg.dylib dist/Tkacz.app/Contents/PlugIns/imageformats/
+4. macdeployqt dist/Tkacz.app (Yes, again. That&#039;s because I haven&#039;t found a way to make it aware of the need to embed the SVG lib, but the app crashes after manual embedding. The second run seems to fix that.).
+
+Maybe this may be helpful to someone struggling inside this strange asylum of bundling  PyQt apps for osx.]]></description>
+		<content:encoded><![CDATA[<p>Ok, it&#8217;s been three years since this post and the world has changed, but I found a stupid, but seemingly working, way to have my app bundle embed the *svg* plugins, which wasn&#8217;t included by default, and btw to fix the &#8220;you might be loading two sets of Qt binaries” infamous error. Your post helped me on the first part with the pointer to macdeployqt, I found out that the best, although dirty, way to finally achieve my end was :</p>
+<p>1. python3 setup.py py2app<br />
+2. macdeployqt dist/Tkacz.app<br />
+(Ignore the long “WARNING: Could not find any external (&#8230;) before trying again.”<br />
+3. cp /Developer/Applications/Qt/plugins/imageformats/libqsvg.dylib dist/Tkacz.app/Contents/PlugIns/imageformats/<br />
+4. macdeployqt dist/Tkacz.app (Yes, again. That&#8217;s because I haven&#8217;t found a way to make it aware of the need to embed the SVG lib, but the app crashes after manual embedding. The second run seems to fix that.).</p>
+<p>Maybe this may be helpful to someone struggling inside this strange asylum of bundling  PyQt apps for osx.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tory</title>
+		<link>http://toryhoke.com/2009/08/27/pyqt-and-py2app-seriously-i-dont-know-what-to-do-with-you-when-youre-like-this/comment-page-1/#comment-29007</link>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2010 18:42:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2174#comment-29007</guid>
+		<description><![CDATA[Useless? No! Bizarre? Yes. Smelling of overkill? Quite. But ReportLab turned my application from broken to unbroken after a half day of pure *headdesk* -- and for that I will buy them a beer.
+Thank you for the advice to ask pythonmac. I should do that. I&#039;ve seen most of my PyQt workarounds cause temporary euphoria and long-term coming-back-to-bite-you -- I can hardly expect this one to be different.]]></description>
+		<content:encoded><![CDATA[<p>Useless? No! Bizarre? Yes. Smelling of overkill? Quite. But ReportLab turned my application from broken to unbroken after a half day of pure *headdesk* &#8212; and for that I will buy them a beer.<br />
+Thank you for the advice to ask pythonmac. I should do that. I&#8217;ve seen most of my PyQt workarounds cause temporary euphoria and long-term coming-back-to-bite-you &#8212; I can hardly expect this one to be different.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Chris Barker</title>
+		<link>http://toryhoke.com/2009/08/27/pyqt-and-py2app-seriously-i-dont-know-what-to-do-with-you-when-youre-like-this/comment-page-1/#comment-29003</link>
+		<dc:creator><![CDATA[Chris Barker]]></dc:creator>
+		<pubDate>Fri, 22 Jan 2010 23:54:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2174#comment-29003</guid>
+		<description><![CDATA[Well, in this case, at least, I think the issue is with OS-X vs. Windows, rather than py2app vs. py2exe.
+
+In generally, Windows is very sloppy with linking, which results in dll hell, but does sometimes make things like this easier to do.
+
+As for your problem -- that is a useless work-around if you want to write an app that can open a jpeg, which would be a pretty reasonable thing to want to do.
+
+There has got to be a solution, however. I don&#039;t know a thing about QT, and not much about the inner workings of linking on the Mac, but there are people that do on the pythomac list -- I don&#039;t think I&#039;ve seen you there -- it&#039;s worth posting a question.
+
+http://mail.python.org/mailman/listinfo/pythonmac-sig]]></description>
+		<content:encoded><![CDATA[<p>Well, in this case, at least, I think the issue is with OS-X vs. Windows, rather than py2app vs. py2exe.</p>
+<p>In generally, Windows is very sloppy with linking, which results in dll hell, but does sometimes make things like this easier to do.</p>
+<p>As for your problem &#8212; that is a useless work-around if you want to write an app that can open a jpeg, which would be a pretty reasonable thing to want to do.</p>
+<p>There has got to be a solution, however. I don&#8217;t know a thing about QT, and not much about the inner workings of linking on the Mac, but there are people that do on the pythomac list &#8212; I don&#8217;t think I&#8217;ve seen you there &#8212; it&#8217;s worth posting a question.</p>
+<p><a href="http://mail.python.org/mailman/listinfo/pythonmac-sig" rel="nofollow">http://mail.python.org/mailman/listinfo/pythonmac-sig</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tory</title>
+		<link>http://toryhoke.com/2009/08/27/pyqt-and-py2app-seriously-i-dont-know-what-to-do-with-you-when-youre-like-this/comment-page-1/#comment-28914</link>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2009 19:20:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2174#comment-28914</guid>
+		<description><![CDATA[Me and a coworker were just talking today about how py2exe seems to handle things better than py2app (also/as a result of more users, more documentation, more helper apps, etc.) I&#039;m glad you got py2exe to bend to your will. I look forward to seeing what develops for Python on Mac.]]></description>
+		<content:encoded><![CDATA[<p>Me and a coworker were just talking today about how py2exe seems to handle things better than py2app (also/as a result of more users, more documentation, more helper apps, etc.) I&#8217;m glad you got py2exe to bend to your will. I look forward to seeing what develops for Python on Mac.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: jbz</title>
+		<link>http://toryhoke.com/2009/08/27/pyqt-and-py2app-seriously-i-dont-know-what-to-do-with-you-when-youre-like-this/comment-page-1/#comment-28911</link>
+		<dc:creator><![CDATA[jbz]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2009 17:11:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2174#comment-28911</guid>
+		<description><![CDATA[After hours of stumbling around with the same issue, I&#039;d like to share the that worked for me on windows:
+using python2.6
+
+copy the following directory into your dist directory generated by py2exe:
+C:\Python26\Lib\site-packages\PyQt4\plugins\imageformats
+
+I just dropped the imageformats directory directly into my dist directory, without any further modifications to qt.conf or anything like that. I haven&#039;t tried it, but this may work for phonon as well.]]></description>
+		<content:encoded><![CDATA[<p>After hours of stumbling around with the same issue, I&#8217;d like to share the that worked for me on windows:<br />
+using python2.6</p>
+<p>copy the following directory into your dist directory generated by py2exe:<br />
+C:\Python26\Lib\site-packages\PyQt4\plugins\imageformats</p>
+<p>I just dropped the imageformats directory directly into my dist directory, without any further modifications to qt.conf or anything like that. I haven&#8217;t tried it, but this may work for phonon as well.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Hugo Rabson</title>
+		<link>http://toryhoke.com/2009/08/27/pyqt-and-py2app-seriously-i-dont-know-what-to-do-with-you-when-youre-like-this/comment-page-1/#comment-28826</link>
+		<dc:creator><![CDATA[Hugo Rabson]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2009 22:10:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2174#comment-28826</guid>
+		<description><![CDATA[Yippee! You&#039;ve made my day. I have been having *exactly* the same problem. Thanks to you, I now have a solution. Please consider yourself appreciated and thanked. You rock my socks.]]></description>
+		<content:encoded><![CDATA[<p>Yippee! You&#8217;ve made my day. I have been having *exactly* the same problem. Thanks to you, I now have a solution. Please consider yourself appreciated and thanked. You rock my socks.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tory</title>
+		<link>http://toryhoke.com/2009/08/27/pyqt-and-py2app-seriously-i-dont-know-what-to-do-with-you-when-youre-like-this/comment-page-1/#comment-28075</link>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2009 16:36:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2174#comment-28075</guid>
+		<description><![CDATA[Anomalous Fan, I believe you have made a spelling error. &quot;Saddens&quot; should be &quot;delights and validates the existence of.&quot;]]></description>
+		<content:encoded><![CDATA[<p>Anomalous Fan, I believe you have made a spelling error. &#8220;Saddens&#8221; should be &#8220;delights and validates the existence of.&#8221;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Your Anomalous Fan</title>
+		<link>http://toryhoke.com/2009/08/27/pyqt-and-py2app-seriously-i-dont-know-what-to-do-with-you-when-youre-like-this/comment-page-1/#comment-28073</link>
+		<dc:creator><![CDATA[Your Anomalous Fan]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2009 13:28:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2174#comment-28073</guid>
+		<description><![CDATA[It saddens me greatly that the *only* thing I understood in that post was the comic book joke.]]></description>
+		<content:encoded><![CDATA[<p>It saddens me greatly that the *only* thing I understood in that post was the comic book joke.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk
+Content Delivery Network via toryhoke.subqmagazine.netdna-cdn.com
+
+ Served from: toryhoke.com @ 2017-02-11 22:03:04 by W3 Total Cache -->

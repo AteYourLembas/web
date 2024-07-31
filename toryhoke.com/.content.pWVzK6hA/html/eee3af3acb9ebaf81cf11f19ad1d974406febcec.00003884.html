@@ -1,0 +1,32 @@
+<html>
+<head>
+  <title>T-Party Films &rsaquo; Login</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" href="/t-partyfilms/wp-admin/wp-admin.css?version=2.1.3" type="text/css" />
+  <script type="text/javascript">
+  //<![CDATA[
+                function focusit() {
+                        document.getElementById('user_login').focus();
+                }
+                window.onload = focusit;
+  //]]>
+  </script>
+</head>
+<body class="login">
+  <div id="login">
+    <h1><span class="hide">T-Party Films</span></h1>
+    <form name="loginform" id="loginform" action="wp-login.php" method="post">
+      <p><label>Username:<br />
+      <input type="text" name="log" id="user_login" class="input" value="" size="20" tabindex="10" /></label></p>
+      <p><label>Password:<br />
+      <input type="password" name="pwd" id="user_pass" class="input" value="" size="20" tabindex="20" /></label></p>
+      <p><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" tabindex="90" /> Remember me</label></p>
+      <p class="submit"><input type="submit" name="submit" id="submit" value="Login &raquo;" tabindex="100" /> <input type="hidden" name="redirect_to" value="wp-admin/" /></p>
+    </form>
+  </div>
+  <ul>
+    <li><a href="/t-partyfilms/" title="Are you lost?">Back to T-Party Films</a></li>
+    <li><a href="/t-partyfilms/wp-login.php?action=lostpassword" title="Password Lost and Found">Lost your password?</a></li>
+  </ul>
+</body>
+</html>

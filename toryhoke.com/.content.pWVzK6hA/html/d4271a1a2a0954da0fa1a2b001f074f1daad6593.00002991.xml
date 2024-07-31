@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Slanderous Mambo &#8211; The Tory Party</title>
+	<atom:link href="/slanderousmambo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 21 Jan 2018 07:16:13 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>	<item>
+		<title>When I Heard the Learn&#8217;d Poet</title>
+		<link>https://toryhoke.com/slanderousmambo/heard-learnd-poet/</link>
+				<comments>https://toryhoke.com/slanderousmambo/heard-learnd-poet/#respond</comments>
+				<pubDate>Wed, 04 Dec 2013 20:07:47 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Amusements]]></category>
+		<category><![CDATA[Comics]]></category>
+
+		<guid isPermaLink="false">http://www.thetoryparty.com/?post_type=webcomic8&#038;p=7008</guid>
+				<description><![CDATA[<p>Cohort Stephan Zielinski directed me to an io9 talkback that cited Scott Aaronson&#8217;s &#8220;When I Heard the Learn&#8217;d Poet&#8221;, a parody of Walt Whitman&#8217;s &#8220;When I Heard the Learn&#8217;d Astronomer,&#8221; which was the topic at hand. So this happened. ANJOI.</p>
+<div class="tptn_counter" id="tptn_counter_7008">(300 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+						<wfw:commentRss>https://toryhoke.com/slanderousmambo/heard-learnd-poet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">7008</post-id>	</item>
+		<item>
+		<title>Brown Air</title>
+		<link>https://toryhoke.com/slanderousmambo/brown-air/</link>
+				<comments>https://toryhoke.com/slanderousmambo/brown-air/#respond</comments>
+				<pubDate>Fri, 28 Oct 2011 18:58:47 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.thetoryparty.com/?post_type=webcomic_post&#038;p=3675</guid>
+				<description><![CDATA[<div class="tptn_counter" id="tptn_counter_3675">(109 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+						<wfw:commentRss>https://toryhoke.com/slanderousmambo/brown-air/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">3675</post-id>	</item>
+		<item>
+		<title>Airport Security</title>
+		<link>https://toryhoke.com/slanderousmambo/airport-security-2/</link>
+				<comments>https://toryhoke.com/slanderousmambo/airport-security-2/#comments</comments>
+				<pubDate>Fri, 23 Sep 2011 04:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[airport security]]></category>
+		<category><![CDATA[backscatter]]></category>
+		<category><![CDATA[grope]]></category>
+		<category><![CDATA[nose]]></category>
+		<category><![CDATA[punch]]></category>
+		<category><![CDATA[tsa]]></category>
+
+		<guid isPermaLink="false">http://www.thetoryparty.com/comics/2011/09/23/airport-security-2/</guid>
+				<description><![CDATA[<div class="tptn_counter" id="tptn_counter_3468">(133 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+						<wfw:commentRss>https://toryhoke.com/slanderousmambo/airport-security-2/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">3468</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 04:16:21 by W3 Total Cache
+-->

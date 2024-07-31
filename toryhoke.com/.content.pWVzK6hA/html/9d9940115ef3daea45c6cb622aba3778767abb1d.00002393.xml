@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Tory Hoke</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Essays, art, and comics of the unexpected</description>
+	<lastBuildDate>Tue, 04 Oct 2022 15:34:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.11</generator>
+
+<image>
+	<url>https://i1.wp.com/toryhoke.com/wp-content/uploads/2020/08/cropped-rawr-copy.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Tory Hoke</title>
+	<link>https://toryhoke.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>                                          	<item>
+		<title>Day 2: The Clean-Up Song</title>
+		<link>https://toryhoke.com/2022/10/04/day-2-the-clean-up-song/</link>
+		
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 15:28:31 +0000</pubDate>
+				<category><![CDATA[Amusements]]></category>
+		<guid isPermaLink="false">http://toryhoke.com/?p=14489</guid>
+
+					<description><![CDATA[<p>This one&#8217;s a Tik-Tok.</p>
+<p><a rel="nofollow" href="/">Tory Hoke</a></p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14489</post-id>	</item>
+		<item>
+		<title>Day 1: An Overview</title>
+		<link>https://toryhoke.com/2022/10/03/day-1-an-overview/</link>
+		
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 04:05:13 +0000</pubDate>
+				<category><![CDATA[Amusements]]></category>
+		<guid isPermaLink="false">http://toryhoke.com/?p=14486</guid>
+
+					<description><![CDATA[<p>(Experience this as a TikTok.) &#8220;Play is the work of childhood.&#8221; &#8211; Jean Piaget &#8220;[F]or children, play is serious learning.&#8221; &#8211; Mr. Rogers Adult learning is hard. Fun is important. Is it possible adult&#46;&#46;&#46;</p>
+<p><a rel="nofollow" href="/">Tory Hoke</a></p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14486</post-id>	</item>
+		<item>
+		<title>Coming Soon: 30 Days of Dopamine</title>
+		<link>https://toryhoke.com/2022/09/27/coming-soon-30-days-of-dopamine/</link>
+		
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Tue, 27 Sep 2022 13:00:00 +0000</pubDate>
+				<category><![CDATA[30 Days of Dopamine]]></category>
+		<category><![CDATA[Amusements]]></category>
+		<category><![CDATA[adderall]]></category>
+		<category><![CDATA[come with me]]></category>
+		<category><![CDATA[dopamine]]></category>
+		<guid isPermaLink="false">http://toryhoke.com/?p=14484</guid>
+
+					<description><![CDATA[<p>Starting Monday, October 3, 2022, I am going to make you a thing like I have never made you a thing before.</p>
+<p><a rel="nofollow" href="/">Tory Hoke</a></p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14484</post-id>	</item>
+		<item>
+		<title>A Short History of Algorithms</title>
+		<link>https://toryhoke.com/2020/10/06/a-short-history-of-algorithms/</link>
+		
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2020 13:00:00 +0000</pubDate>
+				<category><![CDATA[Amusements]]></category>
+		<category><![CDATA[Programming]]></category>
+		<guid isPermaLink="false">http://toryhoke.com/?p=12984</guid>
+
+					<description><![CDATA[<p>This &#8220;Short History of Algorithms&#8221; poem was written in 2019 as a study aid for Big Tech-style coding interviews. It didn&#8217;t make me better, but here it is for anyone else who might enjoy&#46;&#46;&#46;</p>
+<p><a rel="nofollow" href="/">Tory Hoke</a></p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">12984</post-id>	</item>
+		<item>
+		<title>Ridiculous Original Gifs</title>
+		<link>https://toryhoke.com/2020/08/24/ridiculous-original-gifs/</link>
+		
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2020 13:00:25 +0000</pubDate>
+				<category><![CDATA[Amusements]]></category>
+		<category><![CDATA[gifs]]></category>
+		<category><![CDATA[original gifs]]></category>
+		<category><![CDATA[silly]]></category>
+		<guid isPermaLink="false">http://toryhoke.com/?p=12659</guid>
+
+					<description><![CDATA[<p>A few ridiculous original gifs recovered from a file archive. My time wasted goofing off is your gain!</p>
+<p><a rel="nofollow" href="/">Tory Hoke</a></p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">12659</post-id>	</item>
+		<item>
+		<title>Now What?</title>
+		<link>https://toryhoke.com/2016/11/13/now-what/</link>
+		
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Sun, 13 Nov 2016 14:00:56 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://toryhoke.com/?p=9059</guid>
+
+					<description><![CDATA[<p>Don&#8217;t get mad. Get busy. (Well, get mad if it helps.) 1) Showing Up for Racial Justice &#8211; Facebook . Twitter . Act Now In this moment, white people of conscience need a different&#46;&#46;&#46;</p>
+<p><a rel="nofollow" href="/">Tory Hoke</a></p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9059</post-id>	</item>
+		<item>
+		<title>Jacob Tiberius Dog Hoke-Woodward &#8211; an Obituary</title>
+		<link>https://toryhoke.com/2016/07/17/jacob-tiberius-dog-hoke-woodward-an-obituary/</link>
+		
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Sun, 17 Jul 2016 13:00:53 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[dear God I loved this dog]]></category>
+		<category><![CDATA[jake]]></category>
+		<category><![CDATA[jake the dog]]></category>
+		<category><![CDATA[obituary]]></category>
+		<guid isPermaLink="false">http://toryhoke.com/?p=9021</guid>
+
+					<description><![CDATA[<p>After a long battle with arthritis and kidney disease, Jacob &#8220;Jake&#8221; Tiberius Dog Hoke-Woodward passed away peacefully on Saturday, July 16, 2016, in his home in Los Angeles, California. He was 13. Jake was&#46;&#46;&#46;</p>
+<p><a rel="nofollow" href="/">Tory Hoke</a></p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9021</post-id>	</item>
+		<item>
+		<title>Dear Self, One Year After IVF</title>
+		<link>https://toryhoke.com/2016/04/29/dear-self-one-year-after-ivf/</link>
+		
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2016 13:00:32 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[fertility]]></category>
+		<category><![CDATA[infertility]]></category>
+		<category><![CDATA[NIAW]]></category>
+		<category><![CDATA[pregnancy loss]]></category>
+		<category><![CDATA[Resolve]]></category>
+		<category><![CDATA[ttc]]></category>
+		<category><![CDATA[ttcafterloss]]></category>
+		<guid isPermaLink="false">http://toryhoke.com/?p=8683</guid>
+
+					<description><![CDATA[<p>I wrote this April 29, 2015, while waiting to learn the results of my first IVF cycle. It is presented without further edit. It has swears. Hello Self, It&#8217;s me&#8212;you from a year ago!&#46;&#46;&#46;</p>
+<p><a rel="nofollow" href="/">Tory Hoke</a></p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8683</post-id>	</item>
+		<item>
+		<title>Dear Infertile People</title>
+		<link>https://toryhoke.com/2016/04/28/dear-infertile-people/</link>
+		
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Thu, 28 Apr 2016 13:00:46 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[fertility]]></category>
+		<category><![CDATA[infertility]]></category>
+		<category><![CDATA[NIAW]]></category>
+		<category><![CDATA[pregnancy loss]]></category>
+		<category><![CDATA[Resolve]]></category>
+		<category><![CDATA[ttc]]></category>
+		<category><![CDATA[ttcafterloss]]></category>
+		<guid isPermaLink="false">http://toryhoke.com/?p=8940</guid>
+
+					<description><![CDATA[<p>Dear infertile people, you are rad as hell. I&#8217;m not here to tell you it&#8217;s going to be OK. I have no idea where your journey goes. That&#8217;s kind of the reason your journey&#46;&#46;&#46;</p>
+<p><a rel="nofollow" href="/">Tory Hoke</a></p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8940</post-id>	</item>
+		<item>
+		<title>Dear Fertile People</title>
+		<link>https://toryhoke.com/2016/04/27/dear-fertile-people/</link>
+					<comments>https://toryhoke.com/2016/04/27/dear-fertile-people/#comments</comments>
+		
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Wed, 27 Apr 2016 13:00:43 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[etiquette]]></category>
+		<category><![CDATA[infertility]]></category>
+		<category><![CDATA[ivf]]></category>
+		<category><![CDATA[NIAW]]></category>
+		<category><![CDATA[Resolve]]></category>
+		<category><![CDATA[ttc]]></category>
+		<category><![CDATA[ttcafterloss]]></category>
+		<guid isPermaLink="false">http://toryhoke.com/?p=8923</guid>
+
+					<description><![CDATA[<p>It&#8217;s National Infertility Awareness Week! Count me in. Been trying to have a kid for over three years, gotten treatment for two. Two HSGs, 4 IUIs, 3 failed IVFs, one hysteroscopy. Got pregnant once.&#46;&#46;&#46;</p>
+<p><a rel="nofollow" href="/">Tory Hoke</a></p>
+]]></description>
+		
+					<wfw:commentRss>https://toryhoke.com/2016/04/27/dear-fertile-people/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8923</post-id>	</item>
+	                                          </channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: toryhoke.com @ 2022-11-26 17:40:36 by W3 Total Cache
+-->

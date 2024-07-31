@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>icebreaker &#8211; The Tory Party</title>
+	<atom:link href="/tag/icebreaker/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 21 Jan 2018 07:16:13 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>	<item>
+		<title>Meddling Auntie Comics: New Release Plus Giveaway!</title>
+		<link>https://toryhoke.com/2015/04/21/meddling-auntie-comics-new-release-plus-giveaway/</link>
+				<comments>https://toryhoke.com/2015/04/21/meddling-auntie-comics-new-release-plus-giveaway/#comments</comments>
+				<pubDate>Tue, 21 Apr 2015 13:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Giveaway]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[family comics]]></category>
+		<category><![CDATA[giveaway]]></category>
+		<category><![CDATA[icebreaker]]></category>
+		<category><![CDATA[meddling auntie]]></category>
+		<category><![CDATA[puberty]]></category>
+		<category><![CDATA[sensitive subjects]]></category>
+
+		<guid isPermaLink="false">http://toryhoke.com/?p=8630</guid>
+				<description><![CDATA[<p>Meddling Auntie Comics are now on Amazon as eBooks! The series includes a brand new, harsh-truth-soothing, squirm-inducing topic: Puberty. The comics will and should always remain free and open. However people have asked for other ways to read and share them, and I aim to deliver. Next week they&#8217;ll be available for print at Amazon&#8230; <a href="/2015/04/21/meddling-auntie-comics-new-release-plus-giveaway/" class="more-link">Continue reading <span class="screen-reader-text">Meddling Auntie Comics: New Release Plus Giveaway!</span></a></p>
+<div class="tptn_counter" id="tptn_counter_8630">(161 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+						<wfw:commentRss>https://toryhoke.com/2015/04/21/meddling-auntie-comics-new-release-plus-giveaway/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">8630</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 03:35:55 by W3 Total Cache
+-->

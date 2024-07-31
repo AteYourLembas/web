@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Tory Party &#187; gamebooks</title>
+	<atom:link href="/tag/gamebooks/feed/" rel="self" type="application/rss+xml" />
+	<link>http://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>Sun, 13 Nov 2016 14:00:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.8</generator>
+	<item>
+		<title>Submit to sub-Q Magazine</title>
+		<link>http://toryhoke.com/2015/08/31/submit-to-sub-q-magazine/</link>
+		<comments>http://toryhoke.com/2015/08/31/submit-to-sub-q-magazine/#comments</comments>
+		<pubDate>Mon, 31 Aug 2015 13:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[call for submissions]]></category>
+		<category><![CDATA[cyoa]]></category>
+		<category><![CDATA[gamebooks]]></category>
+		<category><![CDATA[interactive fiction]]></category>
+		<category><![CDATA[submissions]]></category>
+
+		<guid isPermaLink="false">http://toryhoke.com/?p=8718</guid>
+		<description><![CDATA[<p>Hey! So I founded sub-Q, a magazine for interactive fiction. It pays pro rates. It needs submissions. It needs them REAL BAD. Have you dabbled in Twine? Played with Inform? Messed around with hypertext fiction or CYOA? Then sub-Q needs you. What is sub-Q? This 90-second video demonstrates how we work: Our Mission We seek [&#8230;]
+<div class="tptn_counter" id="tptn_counter_8718">(84 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+		<wfw:commentRss>http://toryhoke.com/2015/08/31/submit-to-sub-q-magazine/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk
+Content Delivery Network via toryhoke.subqmagazine.netdna-cdn.com
+
+ Served from: toryhoke.com @ 2017-02-17 08:42:55 by W3 Total Cache -->

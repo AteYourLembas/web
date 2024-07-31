@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>software &#8211; The Tory Party</title>
+	<atom:link href="/tag/software/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 21 Jan 2018 07:16:13 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>	<item>
+		<title>The Secret to Life is Programming</title>
+		<link>https://toryhoke.com/2015/03/10/secret-life-programming/</link>
+				<pubDate>Tue, 10 Mar 2015 13:00:44 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Amusements]]></category>
+		<category><![CDATA[automate]]></category>
+		<category><![CDATA[code changes everything]]></category>
+		<category><![CDATA[life advice]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[women in programming]]></category>
+
+		<guid isPermaLink="false">http://toryhoke.com/?p=8445</guid>
+				<description><![CDATA[<p>(This post created for and first appeared on Samantha Gay&#8217;s blog, February 21, 2015.) Twenty years ago I was depressed, confused, and out of ideas. Then I discovered programming. I&#8217;m not sure how it started. It helped that the family had a Tandy TRS-80 at one point, and I ran into BASIC and Oregon Trail&#8230; <a href="/2015/03/10/secret-life-programming/" class="more-link">Continue reading <span class="screen-reader-text">The Secret to Life is Programming</span></a></p>
+<div class="tptn_counter" id="tptn_counter_8445">(147 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">8445</post-id>	</item>
+		<item>
+		<title>JDI on How to Ask a Good Programming Question</title>
+		<link>https://toryhoke.com/2012/04/16/jdi-on-how-to-ask-a-good-programming-question/</link>
+				<pubDate>Mon, 16 Apr 2012 16:47:27 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[code questions]]></category>
+		<category><![CDATA[jdi]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[stack overflow]]></category>
+
+		<guid isPermaLink="false">http://www.thetoryparty.com/?p=4002</guid>
+				<description><![CDATA[<p>The coworker featured in this comic has written a post about the problem with short questions posted to StackOverflow. It is haughty and good. For those that are immediately inclined to provide the complete code snippet to solve the problem, where do we draw the line? What if the question being asked would need 10&#8230; <a href="/2012/04/16/jdi-on-how-to-ask-a-good-programming-question/" class="more-link">Continue reading <span class="screen-reader-text">JDI on How to Ask a Good Programming Question</span></a></p>
+<div class="tptn_counter" id="tptn_counter_4002">(98 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">4002</post-id>	</item>
+		<item>
+		<title>AndEngine Installation: Lessons from Last Night&#8217;s Tweets</title>
+		<link>https://toryhoke.com/2011/11/18/andengine-installation-lessons-from-last-nights-tweets/</link>
+				<pubDate>Fri, 18 Nov 2011 18:05:46 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[AndEngine]]></category>
+		<category><![CDATA[I forgot how mad this made me]]></category>
+		<category><![CDATA[installation heck]]></category>
+		<category><![CDATA[late night insanity]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.thetoryparty.com/?p=3748</guid>
+				<description><![CDATA[<p>Y&#8217;all may have noticed from my Twittersplosion that I had a frustrating time trying to install and run the AndEngine examples. This involved 7 hours, 3 different tutorials (including 2 ones on video!) and at least 10 distinct errors requiring a stop-and-Google. At four in the morning I got the emulator to launch the example&#8230; <a href="/2011/11/18/andengine-installation-lessons-from-last-nights-tweets/" class="more-link">Continue reading <span class="screen-reader-text">AndEngine Installation: Lessons from Last Night&#8217;s Tweets</span></a></p>
+<div class="tptn_counter" id="tptn_counter_3748">(72 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">3748</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 03:35:00 by W3 Total Cache
+-->

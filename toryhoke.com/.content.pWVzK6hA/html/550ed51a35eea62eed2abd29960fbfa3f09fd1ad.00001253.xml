@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: PIL on Snow Leopard: _jpeg_resync_to_restart error	</title>
+	<atom:link href="/2010/08/31/pil-on-snow-leopard-_jpeg_resync_to_restart-error/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com/2010/08/31/pil-on-snow-leopard-_jpeg_resync_to_restart-error/</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 20 Jan 2019 22:41:40 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: Tory				</title>
+				<link>https://toryhoke.com/2010/08/31/pil-on-snow-leopard-_jpeg_resync_to_restart-error/comment-page-1/#comment-59388</link>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Tue, 26 Feb 2013 22:16:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2794#comment-59388</guid>
+					<description><![CDATA[Damn interesting, James. Thank you for the update.]]></description>
+		<content:encoded><![CDATA[<p>Damn interesting, James. Thank you for the update.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: James Stroud				</title>
+				<link>https://toryhoke.com/2010/08/31/pil-on-snow-leopard-_jpeg_resync_to_restart-error/comment-page-1/#comment-59348</link>
+		<dc:creator><![CDATA[James Stroud]]></dc:creator>
+		<pubDate>Tue, 26 Feb 2013 07:44:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2794#comment-59348</guid>
+					<description><![CDATA[Thank you for showing that it can be done and for the crucial clue that the problem is with libjpegs.
+
+I think I tracked down exactly what caused this. The default libjpeg for some package managers (like fink) in 6b-19, available from libjpeg.sourceforge.net. The latest-greatest that actually works with PIL _imaging is version 9, obtained from http://www.ijg.org/, which is a different distribution from the one available on sourceforge.
+
+Both distributions seem to be available by fink, only the user must specify the package &quot;libjpeg9&quot;. I built libjpeg v9 myself (without a package manager) and it worked fine.]]></description>
+		<content:encoded><![CDATA[<p>Thank you for showing that it can be done and for the crucial clue that the problem is with libjpegs.</p>
+<p>I think I tracked down exactly what caused this. The default libjpeg for some package managers (like fink) in 6b-19, available from libjpeg.sourceforge.net. The latest-greatest that actually works with PIL _imaging is version 9, obtained from <a href="http://www.ijg.org/" rel="nofollow">http://www.ijg.org/</a>, which is a different distribution from the one available on sourceforge.</p>
+<p>Both distributions seem to be available by fink, only the user must specify the package &#8220;libjpeg9&#8221;. I built libjpeg v9 myself (without a package manager) and it worked fine.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Lance				</title>
+				<link>https://toryhoke.com/2010/08/31/pil-on-snow-leopard-_jpeg_resync_to_restart-error/comment-page-1/#comment-29258</link>
+		<dc:creator><![CDATA[Lance]]></dc:creator>
+		<pubDate>Fri, 03 Sep 2010 01:05:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2794#comment-29258</guid>
+					<description><![CDATA[Wow. I am retrospectively thankful.]]></description>
+		<content:encoded><![CDATA[<p>Wow. I am retrospectively thankful.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Tory				</title>
+				<link>https://toryhoke.com/2010/08/31/pil-on-snow-leopard-_jpeg_resync_to_restart-error/comment-page-1/#comment-29257</link>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+		<pubDate>Thu, 02 Sep 2010 23:04:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2794#comment-29257</guid>
+					<description><![CDATA[Please check out the hover text to the first image (terminal screencap.)
+
+You are welcome in advance.]]></description>
+		<content:encoded><![CDATA[<p>Please check out the hover text to the first image (terminal screencap.)</p>
+<p>You are welcome in advance.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Lance				</title>
+				<link>https://toryhoke.com/2010/08/31/pil-on-snow-leopard-_jpeg_resync_to_restart-error/comment-page-1/#comment-29256</link>
+		<dc:creator><![CDATA[Lance]]></dc:creator>
+		<pubDate>Thu, 02 Sep 2010 17:48:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2794#comment-29256</guid>
+					<description><![CDATA[Oh, man. So there&#039;s nothing here about Public Image Limited at all, right?]]></description>
+		<content:encoded><![CDATA[<p>Oh, man. So there&#8217;s nothing here about Public Image Limited at all, right?</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Sara the Ninja				</title>
+				<link>https://toryhoke.com/2010/08/31/pil-on-snow-leopard-_jpeg_resync_to_restart-error/comment-page-1/#comment-29255</link>
+		<dc:creator><![CDATA[Sara the Ninja]]></dc:creator>
+		<pubDate>Wed, 01 Sep 2010 23:26:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2794#comment-29255</guid>
+					<description><![CDATA[I don&#039;t know what any of that means... But I&#039;m proud of you! Vic-TORY(a)!]]></description>
+		<content:encoded><![CDATA[<p>I don&#8217;t know what any of that means&#8230; But I&#8217;m proud of you! Vic-TORY(a)!</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: random_tangent				</title>
+				<link>https://toryhoke.com/2010/08/31/pil-on-snow-leopard-_jpeg_resync_to_restart-error/comment-page-1/#comment-29254</link>
+		<dc:creator><![CDATA[random_tangent]]></dc:creator>
+		<pubDate>Tue, 31 Aug 2010 22:18:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.thetoryparty.com/wp/?p=2794#comment-29254</guid>
+					<description><![CDATA[Guh. My brain.
+
+Yay victory gong!]]></description>
+		<content:encoded><![CDATA[<p>Guh. My brain.</p>
+<p>Yay victory gong!</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 03:37:46 by W3 Total Cache
+-->

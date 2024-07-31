@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tutorial &#8211; The Tory Party</title>
+	<atom:link href="/tag/tutorial/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 21 Jan 2018 07:16:13 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>	<item>
+		<title>Twine in 10 Minutes: Write Interactive Fiction Today</title>
+		<link>https://toryhoke.com/2015/02/24/twine-10-minutes-write-interactive-fiction-today/</link>
+				<pubDate>Tue, 24 Feb 2015 14:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[how-to]]></category>
+		<category><![CDATA[interactive fiction]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[twine]]></category>
+		<category><![CDATA[twine 2]]></category>
+
+		<guid isPermaLink="false">http://toryhoke.com/?p=8452</guid>
+				<description><![CDATA[<p>(This article originally appeared as a Luna Station Quarterly&#8217;s Chick on the Draw column, February 6, 2015) Think IF might be fun, but don&#8217;t know where to start? Here&#8217;s how to get hooked in ten minutes. 1) Watch an introduction by Chris Klimas, the founder of Twine. It&#8217;s about two minutes and will prime your&#8230; <a href="/2015/02/24/twine-10-minutes-write-interactive-fiction-today/" class="more-link">Continue reading <span class="screen-reader-text">Twine in 10 Minutes: Write Interactive Fiction Today</span></a></p>
+<div class="tptn_counter" id="tptn_counter_8452">(4,277 visits, 96 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">8452</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 03:56:39 by W3 Total Cache
+-->

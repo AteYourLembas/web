@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>motte &#8211; The Tory Party</title>
+	<atom:link href="/tag/motte/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 21 Jan 2018 07:16:13 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>	<item>
+		<title>Motte and Bailey: Crow Stew</title>
+		<link>https://toryhoke.com/2013/02/20/motte-and-bailey-crow-stew/</link>
+				<pubDate>Wed, 20 Feb 2013 18:14:06 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Orcs and Elves]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[bailey]]></category>
+		<category><![CDATA[cartoon]]></category>
+		<category><![CDATA[motte]]></category>
+		<category><![CDATA[movie]]></category>
+		<category><![CDATA[orcs]]></category>
+		<category><![CDATA[silly]]></category>
+		<category><![CDATA[took forever]]></category>
+
+		<guid isPermaLink="false">http://www.thetoryparty.com/?p=4520</guid>
+				<description><![CDATA[<p>It&#8217;s here! Please enjoy this animated short that me and Jeremy did. It is less than four minutes long. It just wants to make you happy. You should watch it. No pressure.</p>
+<div class="tptn_counter" id="tptn_counter_4520">(369 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">4520</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 03:25:20 by W3 Total Cache
+-->

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Tory Party &#187; tarrare</title>
+	<atom:link href="/tag/tarrare/feed/" rel="self" type="application/rss+xml" />
+	<link>http://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>Sat, 30 Apr 2016 02:06:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<item>
+		<title>gulosity</title>
+		<link>http://toryhoke.com/rarewords/gulosity/</link>
+		<comments>http://toryhoke.com/rarewords/gulosity/#comments</comments>
+		<pubDate>Thu, 08 Aug 2013 13:00:55 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Comics]]></category>
+		<category><![CDATA[deadlysin]]></category>
+		<category><![CDATA[gluttony]]></category>
+		<category><![CDATA[gross]]></category>
+		<category><![CDATA[tarrare]]></category>
+
+		<guid isPermaLink="false">http://www.thetoryparty.com/?post_type=webcomic10&#038;p=6346</guid>
+		<description><![CDATA[<p>n. enormous appetite; gluttony If I forget the name of Tarrare, the 18th C Frenchman of monstrous gulosity, I can find him by Googling &#8220;Frenchman who ate everything.&#8221;
+<div class="tptn_counter" id="tptn_counter_6346">(45 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+		<wfw:commentRss>http://toryhoke.com/rarewords/gulosity/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tarrare Sketches</title>
+		<link>http://toryhoke.com/2013/02/28/tarrare-sketches/</link>
+		<comments>http://toryhoke.com/2013/02/28/tarrare-sketches/#comments</comments>
+		<pubDate>Thu, 28 Feb 2013 14:00:50 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Amusements]]></category>
+		<category><![CDATA[do not eat cats]]></category>
+		<category><![CDATA[fetid stench]]></category>
+		<category><![CDATA[pica]]></category>
+		<category><![CDATA[tarrare]]></category>
+		<category><![CDATA[weird sketches]]></category>
+
+		<guid isPermaLink="false">http://www.thetoryparty.com/?p=4764</guid>
+		<description><![CDATA[<p>I have mentioned I am obsessed with the story of Tarrare, yes? The 18th Century Frenchman/street performer/would-be spy for the French Revolutionary Army? With military rations unable to satisfy his large appetite, he would eat any available food from gutters and refuse heaps but his condition still deteriorated through hunger. Suffering from exhaustion, he was [&#8230;]
+<div class="tptn_counter" id="tptn_counter_4764">(935 visits, 2 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+		<wfw:commentRss>http://toryhoke.com/2013/02/28/tarrare-sketches/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk
+Content Delivery Network via toryhoke.subqmagazine.netdna-cdn.com
+
+ Served from: toryhoke.com @ 2016-04-30 11:28:44 by W3 Total Cache -->

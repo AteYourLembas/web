@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Soup is good beverage</title>
+	<atom:link href="/2003/09/30/amusements/feed/" rel="self" type="application/rss+xml" />
+	<link>http://toryhoke.com/2003/09/30/amusements/</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>Mon, 15 Dec 2014 23:04:23 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.0.1</generator>
+</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk
+Content Delivery Network via toryhoke.subqmagazine.netdna-cdn.com
+
+ Served from: toryhoke.com @ 2015-01-01 03:04:42 by W3 Total Cache -->

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tea &#8211; The Tory Party</title>
+	<atom:link href="/tag/tea/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 21 Jan 2018 07:16:13 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>	<item>
+		<title>Ziva&#8217;s Conjury Mart</title>
+		<link>https://toryhoke.com/2014/10/07/zivas-conjury-mart/</link>
+				<pubDate>Tue, 07 Oct 2014 13:00:29 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[bubbe]]></category>
+		<category><![CDATA[cyoa]]></category>
+		<category><![CDATA[diplomacy]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[intimidation]]></category>
+		<category><![CDATA[tea]]></category>
+		<category><![CDATA[twine]]></category>
+
+		<guid isPermaLink="false">http://toryhoke.com/?p=8322</guid>
+				<description><![CDATA[<p>Twine is a platform for making interactive fiction&#8211;stories integrated with choice, picture, and sound. It&#8217;s pretty great. I&#8217;ll explain more later, but first I made you a present: PLAY Ziva&#8217;s Conjury Mart (Tested on OSX in Chrome and Safari, and on Windows in Chrome and IE. However audio doesn&#8217;t appear to load in iOS. Sorry.&#8230; <a href="/2014/10/07/zivas-conjury-mart/" class="more-link">Continue reading <span class="screen-reader-text">Ziva&#8217;s Conjury Mart</span></a></p>
+<div class="tptn_counter" id="tptn_counter_8322">(224 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">8322</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 03:29:02 by W3 Total Cache
+-->

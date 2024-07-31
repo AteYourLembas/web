@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>code questions &#8211; The Tory Party</title>
+	<atom:link href="/tag/code-questions/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toryhoke.com</link>
+	<description>Comics, essays, art, and heckling</description>
+	<lastBuildDate>
+	Sun, 21 Jan 2018 07:16:13 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">75387560</site>	<item>
+		<title>JDI on How to Ask a Good Programming Question</title>
+		<link>https://toryhoke.com/2012/04/16/jdi-on-how-to-ask-a-good-programming-question/</link>
+				<pubDate>Mon, 16 Apr 2012 16:47:27 +0000</pubDate>
+		<dc:creator><![CDATA[Tory]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[code questions]]></category>
+		<category><![CDATA[jdi]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[stack overflow]]></category>
+
+		<guid isPermaLink="false">http://www.thetoryparty.com/?p=4002</guid>
+				<description><![CDATA[<p>The coworker featured in this comic has written a post about the problem with short questions posted to StackOverflow. It is haughty and good. For those that are immediately inclined to provide the complete code snippet to solve the problem, where do we draw the line? What if the question being asked would need 10&#8230; <a href="/2012/04/16/jdi-on-how-to-ask-a-good-programming-question/" class="more-link">Continue reading <span class="screen-reader-text">JDI on How to Ask a Good Programming Question</span></a></p>
+<div class="tptn_counter" id="tptn_counter_4002">(98 visits, 1 today)</div>
+<p><a rel="nofollow" href="/">The Tory Party</a></p>
+]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">4002</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: toryhoke.com @ 2019-07-17 03:44:53 by W3 Total Cache
+-->
